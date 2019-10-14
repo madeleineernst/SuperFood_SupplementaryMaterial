@@ -1,0 +1,586 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	ATTRIBUTE_sample_type_group5	ATTRIBUTE_superfood	ATTRIBUTE_sample_type_group4	organic	ATTRIBUTE_family_genus	gluten_free	filename	packaging	presample_ethanol_weight	botanical_genus	ATTRIBUTE_botanical_anatomy	final_ethanol_weight	gmo	sample_in_tube_ethanol_weight	sample_type_group6	ATTRIBUTE_GNPSDefaultGroup
+72475_1x_BC9_01_17418	GATACA	GATACA	garlic	superfood	vegetable	yes	Amaryllidaceae	no	72475_1x_BC9_01_17418.mzXML	none	1.9269	allium	stem	2.0369	no	0.11	garlic	Not Mapped
+72497_1x_BD7_01_17434	GATACA	GATACA	melon	non_superfood	pepo	no	Cucurbitaceae	yes	72497_1x_BD7_01_17434.mzXML	none	1.9243	Cucumis	fruit	2.1797	no	0.2554	galia	G1
+72500_1x_BG3_01_17471	GATACA	GATACA	apple	non_superfood	pome	yes	Rosaceae	yes	72500_1x_BG3_01_17471.mzXML	glass	1.95	Malus	fruit	2.3257	no	0.3757	apple	G1
+72504_1x_BH8_01_17502	GATACA	GATACA	fig	non_superfood	multifruit	yes	Moraceae	yes	72504_1x_BH8_01_17502.mzXML	plastic 	1.9545	ficus	fruit	2.1733	no	0.2188	turkish fig	G1
+72537_1x_BG5_01_17486	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	no	72537_1x_BG5_01_17486.mzXML	plastic	1.9385	Solanum	fruit	2.1044	no	0.1659	orange cherry tomato	Not Mapped
+72538_1x_BB6_01_17402	GATACA	GATACA	cabbage	non_superfood	vegetable	no	Brassicaceae	yes	72538_1x_BB6_01_17402.mzXML	none	1.9421	brassica	leaf	2.0412	no	0.0991	napa cabbage	G1
+72540_1x_BB8_01_17404	GATACA	GATACA	melon	non_superfood	pepo	no	Cucurbitaceae	yes	72540_1x_BB8_01_17404.mzXML	none	1.9487	Citrullus	fruit	2.4881	no	0.5394	watermelon	G1
+72657_1x_BE5_01_17445	GATACA	GATACA	pear	non_superfood	pome	yes	Rosaceae	yes	72657_1x_BE5_01_17445.mzXML	not applicable	1.9685	Pyrus	fruit	2.3697	no	0.4012	barlett pear	G1
+72665_5x_RD5_01_17476	GATACA	GATACA	cherry	non_superfood	drupe	yes	Rosaceae	yes	72665_5x_RD5_01_17476.mzXML	not applicable	1.9592	Prunus	fruit	2.1237	no	0.1645	cherry	G1
+72666_1x_BC5_01_17414	GATACA	GATACA	apricot	non_superfood	drupe	yes	Rosaceae	yes	72666_1x_BC5_01_17414.mzXML	not applicable	1.971	Prunus	fruit	2.2478	no	0.2768	apricot	G1
+72671_1x_BD12_01_17439	GATACA	GATACA	basil	non_superfood	herb/spice	yes	Lamiaceae	yes	72671_1x_BD12_01_17439.mzXML	none	1.9678	ocimum	leaf	1.9453	no	not applicable	basil	G1
+72673_1x_BE7_01_17447	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	72673_1x_BE7_01_17447.mzXML	none	1.9714	citrus	fruit	2.0574	no	0.086	orange	G1
+72674_1x_BG4_01_17472	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	72674_1x_BG4_01_17472.mzXML	none	1.9679	citrus	fruit	2.2773	no	0.3094	orange	Not Mapped
+72675_1x_BC3_01_17412	GATACA	GATACA	grape	superfood	berry	no	Vitaceae	yes	72675_1x_BC3_01_17412.mzXML	plastic	1.9604	Vitis	fruit	2.4069	no	0.4465	grape	G1
+72684_1x_BF5_01_17479	GATACA	GATACA	lettuce	non_superfood	vegetable	not collected	Asteraceae	yes	72684_1x_BF5_01_17479.mzXML	not collected	1.9672	lactuca	leaf	2.0439	no	0.0767	lettuce	G1
+72790_5x_RG6_01_17487	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	72790_5x_RG6_01_17487.mzXML	plastic	1.9666	vaccinium	fruit	2.0826	no	0.116	blueberry	G1
+72798_1x_BH4_01_17498	GATACA	GATACA	spinach	non_superfood	vegetable	yes	Amaranthaceae	yes	72798_1x_BH4_01_17498.mzXML	plastic	1.9603	spinacia	leaf	2.0003	no	0.04	spinach	G1
+72799_1x_BF7_01_17460	GATACA	GATACA	kale	superfood	vegetable	yes	Brassicaceae	yes	72799_1x_BF7_01_17460.mzXML	plastic	1.9515	brassica	leaf	1.9662	no	0.0147	kale	G1
+72802_1x_BD11_01_17438	GATACA	GATACA	pepper	non_superfood	berry	no	Solanaceae	yes	72802_1x_BD11_01_17438.mzXML	none	1.9733	capsicum	fruit	2.2348	no	0.2615	red bell pepper	G1
+73714_1x_BA9_01_17392	GATACA	GATACA	grape	non_superfood	berry	not collected	Vitaceae	yes	73714_1x_BA9_01_17392.mzXML	none	1.8974	Vitis	fruit	2.11918	no	0.22178	green grape	G1
+73730_1x_BB9_01_17405	GATACA	GATACA	mango	non_superfood	drupe	yes	Anacardiaceae	yes	73730_1x_BB9_01_17405.mzXML	none	1.9347	Mangifera	fruit	2.1109	no	0.1762	mango	G1
+73971_1x_BF4_01_17478	GATACA	GATACA	lettuce	non_superfood	vegetable	no	Asteraceae	yes	73971_1x_BF4_01_17478.mzXML	styrofoam	1.9644	lactuca	leaf	2.0658	no	0.1014	iceberg lettuce	G1
+73980_1x_BB10_01_17406	GATACA	GATACA	fig	non_superfood	multifruit	yes	Moraceae	yes	73980_1x_BB10_01_17406.mzXML	none	1.959	ficus	fruit	2.0971	no	0.1381	fig	G1
+73981_1x_BA10_01_17393	GATACA	GATACA	rosemary	non_superfood	herb/spice	yes	Lamiaceae	yes	73981_1x_BA10_01_17393.mzXML	none	1.9713	Rosmarinus	leaf	1.9825	no	0.0112	rosemary	G1
+73982_1x_BG7_01_17488	GATACA	GATACA	lavender	non_superfood	flower	yes	Lamiaceae	yes	73982_1x_BG7_01_17488.mzXML	none	1.9658	lavendula	flower	1.9787	no	0.0129	lavender	G1
+73989_5x_RH6_01_17500	GATACA	GATACA	blueberry	superfood	berry	no	ericacee	yes	73989_5x_RH6_01_17500.mzXML	plastic	1.9631	vaccinium	fruit	2.224	no	0.2609	blueberry	G1
+73990_1x_BH7_01_17517	GATACA	GATACA	tomato	non_superfood	berry	not collected	Solanaceae	yes	73990_1x_BH7_01_17517.mzXML	none	1.9758	solanum	fruit	2.1047	no	0.1289	cherry tomato	G1
+73996_1x_BG8_01_17489	GATACA	GATACA	kohlrabi	non_superfood	vegetable	not collected	Brassicaceae	yes	73996_1x_BG8_01_17489.mzXML	none	1.9639	brassica	stem	2.1281	no	0.1642	kohlrabi	G1
+74003_1x_BA2_01_17385	GATACA	GATACA	strawberry	superfood	pseudocarp	not collected	Rosaceae	yes	74003_1x_BA2_01_17385.mzXML	none	1.969	fragaria	fruit	2.1602	no	0.1912	strawberry	G1
+74004_1x_BD2_01_17474	GATACA	GATACA	onion	non_superfood	vegetable	no	Amaryllidaceae	yes	74004_1x_BD2_01_17474.mzXML	none	1.9724	allium	bulb	2.0617	no	0.0893	white onion	G1
+74009_5x_RC2_01_17411	GATACA	GATACA	strawberry	superfood	pseudocarp	not collected	Rosaceae	yes	74009_5x_RC2_01_17411.mzXML	none	1.9525	fragaria	fruit	2.124	no	0.1715	strawberry	G1
+74011_1x_BF2_01_17455	GATACA	GATACA	asparagus	non_superfood	vegetable	not collected	Asparagaceae	yes	74011_1x_BF2_01_17455.mzXML	none	1.9723	asparagus	flower	2.377	no	0.4047	white asparagus	G1
+74015_1x_BG2_01_17470	GATACA	GATACA	pepper	non_superfood	berry	not collected	Solanaceae	yes	74015_1x_BG2_01_17470.mzXML	none	1.9598	capsicum	fruit	2.0256	no	0.0658	orange bell pepper	G1
+74018_1x_BB12_01_17408	GATACA	GATACA	pepper	non_superfood	berry	not collected	Solanaceae	yes	74018_1x_BB12_01_17408.mzXML	none	1.9685	capsicum	fruit	2.0699	no	0.1014	red bell pepper	G1
+74021_1x_BA12_01_17395	GATACA	GATACA	cucumber	non_superfood	pepo	not collected	Cucurbitaceae	yes	74021_1x_BA12_01_17395.mzXML	none	1.9614	cucumis	fruit	2.1583	no	0.1969	cucumber	G1
+74027_1x_BC12_01_17421	GATACA	GATACA	strawberry	superfood	pseudocarp	not collected	Rosaceae	yes	74027_1x_BC12_01_17421.mzXML	plastic	1.9692	fragaria	fruit	2.1372	no	0.168	strawberry	G1
+74028_1x_BE11_01_17451	GATACA	GATACA	strawberry	superfood	pseudocarp	not collected	Rosaceae	yes	74028_1x_BE11_01_17451.mzXML	plastic	1.9276	fragaria	fruit	2.2929	no	0.3653	strawberry	G1
+74031_1x_BF11_01_17483	GATACA	GATACA	lettuce	non_superfood	vegetable	not collected	Asteraceae	yes	74031_1x_BF11_01_17483.mzXML	none	1.9079	lactuca	leaf	1.964	no	0.0561	butter leaf lettuce	G1
+75069_5x_RG10_01_17491	GATACA	GATACA	cilantro	non_superfood	herb/spice	no	Apiaceae	yes	75069_5x_RG10_01_17491.mzXML	plastic	1.9382	coriandrum	leaf	1.9728	no	0.0346	cilantro	G1
+75070_1x_BC10_01_17419	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	75070_1x_BC10_01_17419.mzXML	plastic	1.9752	zea	fruit	2.0564	not collected	0.0812	sweet corn	G1
+75071_1x_BD10_01_17477	GATACA	GATACA	grape	non_superfood	berry	no	Vitaceae	yes	75071_1x_BD10_01_17477.mzXML	plastic	1.9755	Vitis	fruit	2.144	no	0.1685	green grape	G1
+75072_1x_BE9_01_17449	GATACA	GATACA	cherry	non_superfood	drupe	no	Rosaceae	yes	75072_1x_BE9_01_17449.mzXML	plastic	1.9711	Prunus	fruit	2.1556	no	0.1845	cherry	G1
+75077_5x_RC11_01_17425	GATACA	GATACA	blueberry	superfood	berry	no	ericacee	yes	75077_5x_RC11_01_17425.mzXML	plastic	1.9778	vaccinium	fruit	2.5312	no	0.5534	blueberry	G1
+75083_5x_RE3_01_17443	GATACA	GATACA	pea	non_superfood	vegetable	no	Fabaceae	yes	75083_5x_RE3_01_17443.mzXML	plastic	1.9883	pisum	seed	2.1921	no	0.2038	pea	G1
+75084_1x_BD3_01_17475	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	75084_1x_BD3_01_17475.mzXML	plastic	1.9827	zea	fruit	2.2286	not collected	0.2459	corn	G1
+75085_1x_BF3_01_17456	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	75085_1x_BF3_01_17456.mzXML	plastic	1.975	daucus	root	2.0292	no	0.0542	carrot	G1
+75089_1x_BF10_01_17482	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	75089_1x_BF10_01_17482.mzXML	plastic	1.9847	daucus	root	2.1802	no	0.1955	carrot	G1
+75092_1x_BH10_01_17514	GATACA	GATACA	cauliflower	superfood	vegetable	no	Brassicaceae	yes	75092_1x_BH10_01_17514.mzXML	plastic	1.9623	Brassica	flower	2.0727	no	0.1104	cauliflower	G1
+75093_1x_BE10_01_17450	GATACA	GATACA	arugula	non_superfood	vegetable	yes	Brassicaceae	yes	75093_1x_BE10_01_17450.mzXML	plastic	1.954	eruca	leaf	1.9588	no	0.0048	arugula	G1
+75904_1x_BA11_01_17394	GATACA	GATACA	spinach	non_superfood	vegetable	yes	Amaranthaceae	yes	75904_1x_BA11_01_17394.mzXML	plastic	1.9472	spinacia	leaf	1.9878	no	0.0406	spinach	Not Mapped
+78802_1x_BF9_01_17462	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	78802_1x_BF9_01_17462.mzXML	none	not applicable	daucus	root	not applicable	no	100	carrot	G1
+78806_1x_BG11_01_17510	GATACA	GATACA	onion	non_superfood	vegetable	yes	Amaryllidaceae	yes	78806_1x_BG11_01_17510.mzXML	none	1.9385	allium	stem	2.0889	no	0.1504	white onion	G1
+78808_5x_RE12_01_17452	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	78808_5x_RE12_01_17452.mzXML	none	1.9435	vaccinium	fruit	2.2639	no	0.3204	blueberry	G1
+78810_1x_BF12_01_17484	GATACA	GATACA	cilantro	non_superfood	herb/spice	yes	Apiaceae	yes	78810_1x_BF12_01_17484.mzXML	none	1.9536	coriandrum	leaf	1.9854	no	0.0318	cilantro	G1
+78812_5x_RA5_01_17388	GATACA	GATACA	kale	superfood	vegetable	yes	Brassicaceae	yes	78812_5x_RA5_01_17388.mzXML	none	1.9618	brassica	leaf	2.0656	no	0.1038	kale	G1
+78813_1x_BA6_01_17389	GATACA	GATACA	arugula	non_superfood	vegetable	yes	Brassicaceae	yes	78813_1x_BA6_01_17389.mzXML	none	1.9573	eruca	leaf	2.0871	no	0.1298	arugula	G1
+78814_1x_BB5_01_17424	GATACA	GATACA	nasturtium	non_superfood	vegetable	yes	Tropaeolaceae	yes	78814_1x_BB5_01_17424.mzXML	none	1.9577	Tropaeolum	leaf	2.0298	no	0.0721	nasturtium	G1
+78815_1x_BB11_01_17407	GATACA	GATACA	nasturtium	non_superfood	flower	yes	Tropaeolaceae	yes	78815_1x_BB11_01_17407.mzXML	none	1.958	Tropaeolum	flower	2.1461	no	0.1881	nasturtium	G1
+78816_5x_RH5_01_17511	GATACA	GATACA	broccoli	superfood	vegetable	yes	Brassicaceae	yes	78816_5x_RH5_01_17511.mzXML	none	1.9689	brassica	flower	2.1422	no	0.1733	broccoli	G1
+78817_1x_BH11_01_17515	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	78817_1x_BH11_01_17515.mzXML	none	1.9234	lactuca	leaf	2.1025	no	0.1791	heirloom lettuce	G1
+78832_1x_BH12_01_17516	GATACA	GATACA	garlic	superfood	vegetable	yes	Amaryllidaceae	yes	78832_1x_BH12_01_17516.mzXML	none	1.9471	allium	stem	2.0717	no	0.1246	garlic tops	G1
+79166_1x_BA8_01_17391	GATACA	GATACA	pepper	superfood	berry	not collected	Solanaceae	yes	79166_1x_BA8_01_17391.mzXML	none	1.9822	capsicum	fruit	2.126	no	0.1438	jalapeno pepper	G1
+G72441_1x_BA6_01_17274	GATACA	GATACA	lemon	non_superfood	citrus	no	Rutaceae	yes	G72441_1x_BA6_01_17274.mzXML	none	1.9305	citrus	fruit	2.2822	no	0.3517	lemon	Not Mapped
+G72449_1x_BB6_01_17263	GATACA	GATACA	onion	non_superfood	vegetable	no	Amaryllidaceae	yes	G72449_1x_BB6_01_17263.mzXML	plastic	1.9457	allium	stem	2.0941	no	0.1484	green onion	Not Mapped
+G72451_p2_c6_GA3_01_21633	GATACA	GATACA	onion	non_superfood	vegetable	not collected	Amaryllidaceae	yes	G72451_p2_c6_GA3_01_21633.mzXML	not collected	1.9386	allium	stem	2.056	no	0.1174	red onion	Not Mapped
+G72452_rerun_5ul_RE11_01_17715	GATACA	GATACA	walnut	non_superfood	drupe	no	Juglandaceae	yes	G72452_rerun_5ul_RE11_01_17715.mzXML	plastic	1.9302	juglans	seed	2.0441	no	0.1139	walnut	Not Mapped
+G72453_RA12_01_17534	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	no	G72453_RA12_01_17534.mzXML	plastic	1.9453	oryza	seed	2.0089	no	0.0636	jasmine white rice	Not Mapped
+G72471_1x_BD6_01_17298	GATACA	GATACA	pea	non_superfood	legume	no	Fabaceae	yes	G72471_1x_BD6_01_17298.mzXML	plastic	1.9419	pisum	fruit	2.0377	no	0.0958	pea	Not Mapped
+G72472_1x_rerun_BE6_01_17363	GATACA	GATACA	celery	non_superfood	vegetable	not collected	Apiaceae	yes	G72472_1x_rerun_BE6_01_17363.mzXML	not collected	1.9294	apium	leaf	2.0763	no	0.1469	celery	Not Mapped
+G72478_1x_BF6_01_17324	GATACA	GATACA	ginger	superfood	herb/spice	not collected	Zingiberaceae	yes	G72478_1x_BF6_01_17324.mzXML	not collected	1.9172	zingiber	tuber	2.0892	no	0.172	ginger	Not Mapped
+G72479_5x_rerun_10ul_BA8_01_19654	GATACA	GATACA	ginger	superfood	herb/spice	not collected	Zingiberaceae	yes	G72479_5x_rerun_10ul_BA8_01_19654.mzXML	not collected	not collected	zingiber	tuber	not collected	no	not collected	ginger	G1
+G72480_1x_BG6_01_17337	GATACA	GATACA	strawberry	superfood	pseudocarp	yes	Rosaceae	yes	G72480_1x_BG6_01_17337.mzXML	plastic	1.9613	fragaria	fruit	2.2976	no	0.3363	strawberry	G1
+G72485_RD10_01_18365	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	no	G72485_RD10_01_18365.mzXML	plastic	1.9544	oryza	seed	1.9771	no	0.0227	rice	G1
+G72492_1x_BH6_01_17350	GATACA	GATACA	raspberry	non_superfood	drupe_aggregate	yes	Rosaceae	yes	G72492_1x_BH6_01_17350.mzXML	plastic	1.9059	rubus	fruit	2.1789	no	0.273	red raspberry	G1
+G72493_1x_BA7_01_17275	GATACA	GATACA	brussel sprout	superfood	vegetable	yes	Brassicaceae	yes	G72493_1x_BA7_01_17275.mzXML	plastic	1.9066	brassica	flower	1.926	no	0.0194	brussel sprout	G1
+G72498_1x_BB7_01_17264	GATACA	GATACA	pepper	superfood	berry	yes	Solanaceae	yes	G72498_1x_BB7_01_17264.mzXML	none	1.9098	capsicum	fruit	1.955	no	0.0452	jalapeno pepper	G1
+G72502_rerun_5ul_RC12_01_17659	GATACA	GATACA	chia	superfood	grain/grass	not collected	Lamiaceae	yes	G72502_rerun_5ul_RC12_01_17659.mzXML	plastic	1.9421	salvia	seed	1.9641	no	0.022	chia	G1
+G72503_RA11_01_17533	GATACA	GATACA	oats	non_superfood	grain/grass	not collected	Poaceae	yes	G72503_RA11_01_17533.mzXML	tin can	1.957	secale	seed	2.0366	no	0.0796	oats	G1
+G72505_rerun_5ul_RG11_01_17748	GATACA	GATACA	oat	non_superfood	grain/grass	no	Poaceae	yes	G72505_rerun_5ul_RG11_01_17748.mzXML	paper	1.9502	avena	seed	2.008	no	0.0578	oat	G1
+G72508_RH11_01_17791	GATACA	GATACA	pine nut	non_superfood	drupe	no	Pinaceae	yes	G72508_RH11_01_17791.mzXML	plastic	1.9588	pinus	seed	2.0349	no	0.0761	pine nut	G1
+G72511_1x_10ul_BD9_01_20293	GATACA	GATACA	sumac	non_superfood	berry	no	Anacardiaceae	yes	G72511_1x_10ul_BD9_01_20293.mzXML	glass	1.9207	rhus	fruit	1.9382	no	0.0175	sumac	G1
+G72512_1x_BF8_01_20220	GATACA	GATACA	cloves	non_superfood	herb/spice	no	Myrtaceae	yes	G72512_1x_BF8_01_20220.mzXML	glass	1.9338	syzygium	flower	1.9243	no	not applicable	cloves	G1
+G72513_1x_10ul_BC8_01_20285	GATACA	GATACA	cardamom	non_superfood	herb/spice	no	Zingiberaceae	yes	G72513_1x_10ul_BC8_01_20285.mzXML	glass	1.949	elettaria	seed	1.9653	no	0.0163	cardamom	G1
+G72514_10x_RC9_01_20166	GATACA	GATACA	turmeric	non_superfood	herb/spice	no	Zingiberaceae	yes	G72514_10x_RC9_01_20166.mzXML	plastic	1.9456	curcuma	root	1.9217	no	not applicable	turmeric	G1
+G72517_10x_BH10_01_17938	GATACA	GATACA	pineapple	non_superfood	multifruit	no	Bromeliaceae	yes	G72517_10x_BH10_01_17938.mzXML	none	1.9412	ananas	fruit	2.4207	no	0.4795	pineapple	G1
+G72518_10x_BA11_01_17807	GATACA	GATACA	dates	non_superfood	drupe	yes	Arecaceae	yes	G72518_10x_BA11_01_17807.mzXML	plastic	1.9588	phoenix	fruit	2.375	no	0.4162	medjool date	G1
+G72521_10x_BH12_01_17940	GATACA	GATACA	banana	non_superfood	berry	no	Musaceae	yes	G72521_10x_BH12_01_17940.mzXML	none	1.9399	musa	fruit	2.2475	no	0.3076	banana	G1
+G72523_10x_BC11_01_17821	GATACA	GATACA	pepper	superfood	berry	no	Solanaceae	yes	G72523_10x_BC11_01_17821.mzXML	foil	1.9617	capsicum	fruit	1.9426	no	not collected	red pepper	G1
+G72532_1x_BC7_01_17286	GATACA	GATACA	onion	non_superfood	vegetable	yes	Amaryllidaceae	yes	G72532_1x_BC7_01_17286.mzXML	none	1.9413	allium	stem	2.0071	no	0.0658	green onion	G1
+G72533_1x_BD7_01_17299	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G72533_1x_BD7_01_17299.mzXML	none	1.9409	capsicum	fruit	2.009	no	0.0681	red bell pepper	G1
+G72534_1x_BE7_01_17312	GATACA	GATACA	radish	non_superfood	vegetable	yes	Brassicaceae	yes	G72534_1x_BE7_01_17312.mzXML	none	1.9424	raphanus	root	2.0141	no	0.0717	red radish	G1
+G72663_RF10_01_17619	GATACA	GATACA	poppy seed	non_superfood	grain/grass	not collected	Papaveraceae	no	G72663_RF10_01_17619.mzXML	none	1.9556	papaver	seed	2.0099	no	0.0543	poppy seed	G1
+G72669_1x_BG4_01_20229	GATACA	GATACA	pepper	superfood	berry	no	Solanaceae	yes	G72669_1x_BG4_01_20229.mzXML	glass	1.9693	capsicum	fruit	1.9745	no	0.0052	red chile pepper	G1
+G72672_rerun_5ul_RB12_01_17652	GATACA	GATACA	sesame	non_superfood	grain/grass	no	Pedaliaceae	no	G72672_rerun_5ul_RB12_01_17652.mzXML	not collected	1.9612	sesamum	seed	2.0186	no	0.0574	sesame seed	G1
+G72685_10x_BE12_01_17847	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	yes	G72685_10x_BE12_01_17847.mzXML	not applicable	1.9593	oryza	seed	2.0926	no	0.1333	white rice	G1
+G72696_10x_BF8_01_17856	GATACA	GATACA	pea	non_superfood	vegetable	yes	Fabaceae	yes	G72696_10x_BF8_01_17856.mzXML	packaging	1.9765	pisum	seed	not provided	no	not provided	pea	G1
+G72700_10x_BG8_01_17924	GATACA	GATACA	carrot	non_superfood	vegetable	no	Apiaceae	yes	G72700_10x_BG8_01_17924.mzXML	packaging	1.96	daucus	root	2.1477	no	0.1877	carrot	G1
+G72701_10x_BH8_01_17936	GATACA	GATACA	grape	non_superfood	berry	yes	Vitaceae	yes	G72701_10x_BH8_01_17936.mzXML	cardboard	1.9569	vitis	fruit	not provided	no	0.32	grape	G1
+G72707_10x_3ul_rerun_BA4_01_17883	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	G72707_10x_3ul_rerun_BA4_01_17883.mzXML	plastic	1.9663	vaccinium	fruit	2.3838	no	0.4175	blueberry	G1
+G72708_10x_BC10_01_17818	GATACA	GATACA	banana	non_superfood	berry	yes	Musaceae	yes	G72708_10x_BC10_01_17818.mzXML	none	1.9365	musa	fruit	2.0459	no	0.1094	banana	G1
+G72710_10x_3ul_p1_b6_GC5_01_21930	GATACA	GATACA	beet	non_superfood	vegetable	yes	Amaranthaceae	yes	G72710_10x_3ul_p1_b6_GC5_01_21930.mzXML	plastic	1.9791	Beta	tuber	2.0743	no	0.0952	red beet	G1
+G72711_10x_BH9_01_17937	GATACA	GATACA	melon	non_superfood	pepo	no	Cucurbitaceae	yes	G72711_10x_BH9_01_17937.mzXML	none	1.9622	cucumis	fruit	2.3347	no	0.3725	cantelope	G1
+G72725_rerun_5ul_RC10_01_17657	GATACA	GATACA	oats	non_superfood	grain/grass	yes	Poaceae	yes	G72725_rerun_5ul_RC10_01_17657.mzXML	plastic	1.9718	secale	seed	2.2312	no	0.2594	oats	G1
+G72726_BF5_01_19021	GATACA	GATACA	wheat	non_superfood	grain/grass	yes	Poaceae	no	G72726_BF5_01_19021.mzXML	none	not collected	triticum	seed	not collected	no	not collected	wheat semolina	G1
+G72732_10x_BE11_01_17846	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	G72732_10x_BE11_01_17846.mzXML	not collected	1.9702	zea	fruit	2.4444	not collected	0.4742	corn	G1
+G72737_p1_b12_GC7_01_21932	GATACA	GATACA	blackberry	non_superfood	drupe_aggregate	no	Rosaceae	yes	G72737_p1_b12_GC7_01_21932.mzXML	not collected	1.9708	rubus	fruit	2.7968	no	0.826	blackberry	G1
+G72740_10x_BA2_01_17864	GATACA	GATACA	lemon	non_superfood	citrus	no	Rutaceae	yes	G72740_10x_BA2_01_17864.mzXML	none	1.9715	citrus	fruit	2.2566	no	0.2851	lemon	G1
+G72741_10x_BF5_01_17853	GATACA	GATACA	mandarin	non_superfood	citrus	no	Rutaceae	yes	G72741_10x_BF5_01_17853.mzXML	plastic	1.9726	citrus	fruit	2.1833	no	0.2107	mandarin	G1
+G72742_10x_BE5_01_17838	GATACA	GATACA	mandarin	non_superfood	citrus	no	Rutaceae	yes	G72742_10x_BE5_01_17838.mzXML	plastic	1.9751	citrus	fruit	2.067	no	0.0919	mandarin	G1
+G72745_10x_BD4_01_17825	GATACA	GATACA	brussel sprout	superfood	vegetable	no	Brassicaceae	yes	G72745_10x_BD4_01_17825.mzXML	plastic	1.9629	brassica	flower	2.1758	non GMO	0.2129	brussel sprout	G1
+G72746_10x_3ul_BB3_01_17887	GATACA	GATACA	beet	non_superfood	vegetable	yes	Amaranthaceae	yes	G72746_10x_3ul_BB3_01_17887.mzXML	plastic	1.9741	beta	root	2.2305	non GMO	0.2564	beet	Not Mapped
+G72747_1x_rerun_10ul_RA2_01_20386	GATACA	GATACA	pear	non_superfood	pome	yes	Rosaceae	yes	G72747_1x_rerun_10ul_RA2_01_20386.mzXML	none	1.9635	Pyrus	fruit	2.2751	no	0.3116	asian pear	G1
+G72750_10x_BC4_01_17813	GATACA	GATACA	rose	non_superfood	herb/spice	yes	Rosaceae	yes	G72750_10x_BC4_01_17813.mzXML	none	1.9647	Rosa	flower	1.9823	no	0.0176	rose	G1
+G72751_10x_BB4_01_17808	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G72751_10x_BB4_01_17808.mzXML	none	1.9216	daucus	leaf	1.9309	no	0.0093	carrot greens	G1
+G72752_10x_BC5_01_17814	GATACA	GATACA	mint	non_superfood	herb/spice	yes	Lamiaceae	yes	G72752_10x_BC5_01_17814.mzXML	none	1.9707	mentha	leaf	1.9934	no	0.0227	mint	G1
+G72753_p1_h3_GD5_01_21939	GATACA	GATACA	oregano	non_superfood	herb/spice	yes	Lamiaceae	yes	G72753_p1_h3_GD5_01_21939.mzXML	none	1.9598	origanum	leaf	1.9807	no	0.0209	oregano	G1
+G72755_10x_BC3_01_17812	GATACA	GATACA	onion	non_superfood	vegetable	yes	Amaryllidaceae	yes	G72755_10x_BC3_01_17812.mzXML	none	1.9626	allium	leaf	2.0355	no	0.0729	green onion	G1
+G72758_BE7_01_19009	GATACA	GATACA	apricot	non_superfood	drupe	not collected	Rosaceae	yes	G72758_BE7_01_19009.mzXML	none	1.9688	Prunus	fruit	2.3843	no	0.4155	blenham apricot	G1
+G72764_BH8_01_19056	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G72764_BH8_01_19056.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G72772_1x_RF2_01_20334	GATACA	GATACA	pineapple	non_superfood	multifruit	no	Bromeliaceae	no	G72772_1x_RF2_01_20334.mzXML	none	1.9709	ananas	fruit	2.1286	no	0.1577	pineapple	G1
+G72774_1x_RA3_01_20248	GATACA	GATACA	pepper	non_superfood	berry	not collected	Solanaceae	yes	G72774_1x_RA3_01_20248.mzXML	none	1.9702	capsicum	fruit	2.0734	no	0.1032	green pepper	G1
+G72779_10x_BD3_01_17824	GATACA	GATACA	grape	non_superfood	berry	no	Vitaceae	yes	G72779_10x_BD3_01_17824.mzXML	not collected	1.968	vitis	fruit	2.2937	no	0.3257	grape	G1
+G72787_rerun_5ul_RC11_01_17658	GATACA	GATACA	pistachio	non_superfood	drupe	yes	Anacardiaceae	yes	G72787_rerun_5ul_RC11_01_17658.mzXML	plastic	1.9622	Pistacia	seed	2.0239	no	0.0617	pistachio	G1
+G72788_rerun_5ul_RB11_01_17651	GATACA	GATACA	almond	non_superfood	drupe	yes	Rosaceae	yes	G72788_rerun_5ul_RB11_01_17651.mzXML	plastic	1.9831	Prunus	seed	1.4459	no	not applicable	almond	G1
+G72803_RD12_01_18368	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	yes	G72803_RD12_01_18368.mzXML	plastic	1.9756	oryza	seed	2.0238	no	0.0482	rice	G1
+G72804_1x_rerun_15ul_RF3_01_20568	GATACA	GATACA	oregano	non_superfood	herb/spice	no	Lamiaceae	yes	G72804_1x_rerun_15ul_RF3_01_20568.mzXML	plastic	1.9725	Origanum	leaf	1.9348	not collected	not collected	oregano	G1
+G72805_1x_rerun_RE3_01_20330	GATACA	GATACA	basil	non_superfood	herb/spice	no	Lamiaceae	yes	G72805_1x_rerun_RE3_01_20330.mzXML	plastic	1.9699	ocimum	leaf	1.9832	not collected	0.0133	basil	G1
+G72806_1x_RH3_01_20360	GATACA	GATACA	parsley	non_superfood	herb/spice	no	Apiaceae	yes	G72806_1x_RH3_01_20360.mzXML	plastic	1.9725	Petroselinum	leaf	1.9747	not collected	0.0022	parsley	G1
+G73433_1x_BA3_01_17273	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G73433_1x_BA3_01_17273.mzXML	none	1.9442	capsicum	fruit	2.1374	no	0.1932	orange bell pepper	G1
+G73434_1x_BH4_01_17348	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G73434_1x_BH4_01_17348.mzXML	none	1.9728	capsicum	fruit	2.0589	no	0.0861	green bell pepper	G1
+G73435_1x_rerun_BG4_01_17376	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G73435_1x_rerun_BG4_01_17376.mzXML	none	1.9706	phaseolus	fruit	2.1904	no	0.2198	green bean	G1
+G73436_1x_BF4_01_17322	GATACA	GATACA	lemon	non_superfood	citrus	yes	Rutaceae	yes	G73436_1x_BF4_01_17322.mzXML	none	1.955	citrus	fruit	2.0521	no	0.0971	lemon	G1
+G73437_1x_rerun_BE4_01_17364	GATACA	GATACA	lemon	non_superfood	citrus	yes	Rutaceae	yes	G73437_1x_rerun_BE4_01_17364.mzXML	none	1.9721	citrus	fruit	2.2746	no	0.3025	lemon	G1
+G73438_1x_BD4_01_17296	GATACA	GATACA	ground cherry	non_superfood	berry	yes	Amaranthaceae	yes	G73438_1x_BD4_01_17296.mzXML	none	1.9773	physalis	fruit	2.1833	no	0.206	ground cherry	G1
+G73439_1x_BC4_01_17283	GATACA	GATACA	apple	non_superfood	pome	yes	Rosaceae	yes	G73439_1x_BC4_01_17283.mzXML	none	1.9705	malus	fruit	2.0899	no	0.1194	apple	G1
+G73441_1x_BB4_01_17261	GATACA	GATACA	squash	non_superfood	pepo	yes	Cucurbitaceae	yes	G73441_1x_BB4_01_17261.mzXML	none	1.9735	cucurbita	fruit	2.1026	no	0.1291	patty pan squash	G1
+G73442_1x_BA4_01_17249	GATACA	GATACA	cucumber	non_superfood	pepo	yes	Cucurbitaceae	yes	G73442_1x_BA4_01_17249.mzXML	none	1.9823	cucumis	fruit	2.1142	no	0.1319	lemon cucumber	G1
+G73443_1x_BG5_01_17336	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G73443_1x_BG5_01_17336.mzXML	none	1.9805	capsicum	fruit	2.115	no	0.1345	green bell pepper	G1
+G73444_1x_BH5_01_17349	GATACA	GATACA	cucumber	non_superfood	pepo	yes	Cucurbitaceae	yes	G73444_1x_BH5_01_17349.mzXML	none	1.9743	cucumis	fruit	2.146	no	0.1717	cucumber	G1
+G73445_1x_rerun_BH7_01_17366	GATACA	GATACA	mandarin	non_superfood	citrus	yes	Rutaceae	yes	G73445_1x_rerun_BH7_01_17366.mzXML	none	1.977	citrus	fruit	2.273	no	0.296	mandarin	G1
+G73446_1x_BG7_01_17338	GATACA	GATACA	orange	non_superfood	citrus	yes	Rutaceae	yes	G73446_1x_BG7_01_17338.mzXML	none	1.9751	citrus	fruit	2.272	no	0.2969	blood orange	G1
+G73447_1x_rerun_BF7_01_17371	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G73447_1x_rerun_BF7_01_17371.mzXML	none	1.9743	solanum	fruit	2.0654	no	0.0911	cherry tomato	G1
+G73448_1x_BC5_01_17284	GATACA	GATACA	radish	non_superfood	vegetable	yes	Brassicaceae	yes	G73448_1x_BC5_01_17284.mzXML	none	1.9764	raphanus	leaf	2.0084	no	0.032	red radish greens	G1
+G73449_1x_BD5_01_17297	GATACA	GATACA	radish	non_superfood	vegetable	yes	Brassicaceae	yes	G73449_1x_BD5_01_17297.mzXML	none	1.982	raphanus	root	2.0789	no	0.0969	red radish	G1
+G73450_1x_BE5_01_17310	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G73450_1x_BE5_01_17310.mzXML	none	1.9762	capsicum	fruit	2.1225	no	0.1463	thai pepper	G1
+G73451_1x_BB5_01_17262	GATACA	GATACA	orange	non_superfood	citrus	yes	Rutaceae	yes	G73451_1x_BB5_01_17262.mzXML	none	1.9693	citrus	fruit	2.0207	no	0.0514	blood orange	G1
+G73452_1x_RE6_01_20323	GATACA	GATACA	avocado	superfood	berry	no	Lauraceae	yes	G73452_1x_RE6_01_20323.mzXML	none	1.9665	persea	fruit	2.2637	no	0.2972	avocado	G1
+G73455_RE12_01_17600	GATACA	GATACA	potato	non_superfood	vegetable	not collected	Solanaceae	yes	G73455_RE12_01_17600.mzXML	none	1.9721	solanum	tuber	2.1365	no	0.1644	potato	G1
+G73457_5x_RC5_01_20161	GATACA	GATACA	spice	non_superfood	herb/spice	yes	Solanaceae	yes	G73457_5x_RC5_01_20161.mzXML	glass	1.9729	piper	fruit	1.9789	no	0.006	pepper	G1
+G73458_2x_RH10_01_19429	GATACA	GATACA	apricot	non_superfood	drupe	yes	Rosaceae	yes	G73458_2x_RH10_01_19429.mzXML	plastic	1.9738	Prunus	fruit	2.0281	no	0.0543	apricot	G1
+G73475_1x_10ul_RD8_01_19820	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G73475_1x_10ul_RD8_01_19820.mzXML	plastic	not collected	daucus	root	not collected	no	not collected	carrot	G1
+G73635_1x_RH2_01_20359	GATACA	GATACA	onion	non_superfood	vegetable	no	Amaryllidaceae	yes	G73635_1x_RH2_01_20359.mzXML	plastic	1.9519	allium	bulb	2.1995	no	0.2476	white onion	G1
+G73695_RF11_01_17620	GATACA	GATACA	cashew	superfood	drupe	not collected	Anacardiaceae	yes	G73695_RF11_01_17620.mzXML	glass	1.9435	anacardium	fruit	2.1032	no	0.1597	cashew	G1
+G73717_RH8_01_17780	GATACA	GATACA	corn	non_superfood	grain/grass	yes	Poaceae	yes	G73717_RH8_01_17780.mzXML	plastic	1.9356	zea	fruit	2.0094	not collected	0.0738	corn	G1
+G73721_1x_RC9_01_18821	GATACA	GATACA	pepper	superfood	berry	no	Solanaceae	yes	G73721_1x_RC9_01_18821.mzXML	none	1.9377	capsicum	fruit	2.1433	no	0.2056	green chili pepper	G1
+G73725_rerun_RB5_01_17553	GATACA	GATACA	oats	non_superfood	grain/grass	no	Poaceae	yes	G73725_rerun_RB5_01_17553.mzXML	cardboard/ plastic	1.9376	secale	seed	2.25788	no	0.32028	oats	G1
+G73729_RC5_01_17561	GATACA	GATACA	oats	non_superfood	grain/grass	no	Poaceae	yes	G73729_RC5_01_17561.mzXML	cardboard/ plastic	1.9311	secale	seed	2.0179	no	0.0868	oats	G1
+G73940_1x_BE12_01_17316	GATACA	GATACA	corn	non_superfood	grain/grass	yes	Poaceae	yes	G73940_1x_BE12_01_17316.mzXML	none	1.9437	zea	fruit	2.1946	not collected	0.2509	corn	G1
+G73941_1x_BA5_01_17250	GATACA	GATACA	onion	non_superfood	vegetable	yes	Amaryllidaceae	yes	G73941_1x_BA5_01_17250.mzXML	none	1.912	allium	stem	2.0616	no	0.1496	bunching onion	G1
+G73942_1x_BD12_01_17303	GATACA	GATACA	strawberry	superfood	pseudocarp	yes	Rosaceae	yes	G73942_1x_BD12_01_17303.mzXML	none	1.9365	fragaria	fruit	1.9822	no	0.0457	strawberry	G1
+G73943_p2_f12_GB3_01_21634	GATACA	GATACA	tarragon	non_superfood	herb/spice	yes	Asteraceae	yes	G73943_p2_f12_GB3_01_21634.mzXML	none	1.9188	artemisia	leaf	1.9227	no	0.0039	tarragon	G1
+G73945_1x_BC2_01_17281	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G73945_1x_BC2_01_17281.mzXML	none	1.9195	phaseolus	fruit	2.0263	no	0.1068	purple bean	G1
+G73946_1x_BG12_01_17342	GATACA	GATACA	thyme	non_superfood	herb/spice	yes	Lamiaceae	yes	G73946_1x_BG12_01_17342.mzXML	none	1.9229	thymus	leaf	1.9408	no	0.0179	thyme	G1
+G73947_1x_BA8_01_17276	GATACA	GATACA	potato leaf	non_superfood	vegetable	yes	Solanaceae	yes	G73947_1x_BA8_01_17276.mzXML	none	1.9381	lpomoea	tuber	1.943	no	0.0049	sweet potato leaf	G1
+G73948_p2_h12_GC3_01_21635	GATACA	GATACA	chive stem	non_superfood	herb/spice	yes	Amaryllidaceae	yes	G73948_p2_h12_GC3_01_21635.mzXML	none	1.9301	allium	stem	1.9807	no	0.0506	chive stem	G1
+G73949_1x_BC12_01_17290	GATACA	GATACA	chive blossom	non_superfood	flower	yes	Amaryllidaceae	yes	G73949_1x_BC12_01_17290.mzXML	none	1.9508	allium	flower	1.973	no	0.0222	chive blossom	G1
+G73950_1x_BB8_01_17271	GATACA	GATACA	marjoram	non_superfood	herb/spice	yes	Lamiaceae	yes	G73950_1x_BB8_01_17271.mzXML	none	1.9343	origanum	leaf	1.9573	no	0.023	marjoram	G1
+G73951_1x_BF5_01_17323	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G73951_1x_BF5_01_17323.mzXML	none	1.9095	capsicum	fruit	1.9561	no	0.0466	shishito pepper	G1
+G73952_1x_rerun_BE8_01_17362	GATACA	GATACA	chard	non_superfood	vegetable	yes	Amaranthaceae	yes	G73952_1x_rerun_BE8_01_17362.mzXML	none	1.9338	beta	leaf	1.9755	no	0.0417	orange chard	G1
+G73953_1x_BD8_01_17300	GATACA	GATACA	chard	non_superfood	vegetable	yes	Amaranthaceae	yes	G73953_1x_BD8_01_17300.mzXML	none	1.9334	beta	leaf	1.9785	no	0.0451	red chard	G1
+G73954_1x_BC8_01_17287	GATACA	GATACA	parsley	non_superfood	herb/spice	yes	Apiaceae	yes	G73954_1x_BC8_01_17287.mzXML	none	1.9482	petroselinum	leaf	1.9266	no	not collected	parsley	G1
+G75081_2x_rerun_RC11_01_19150	GATACA	GATACA	wheat	non_superfood	grain/grass	yes	Poaceae	no	G75081_2x_rerun_RC11_01_19150.mzXML	none	not collected	triticum	seed	not collected	no	not collected	wheat semolina	G1
+G75082_2x_rerun_RG11_01_19446	GATACA	GATACA	wheat	non_superfood	grain/grass	yes	Poaceae	no	G75082_2x_rerun_RG11_01_19446.mzXML	none	not collected	triticum	seed	not collected	no	not collected	wheat semolina	G1
+G75088_RE5_01_17588	GATACA	GATACA	pine nut	non_superfood	drupe	yes	Pinaceae	yes	G75088_RE5_01_17588.mzXML	plastic	1.9678	pinus	seed	2.1438	no	0.176	pine nut	G1
+G75091_2x_RC3_01_19127	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G75091_2x_RC3_01_19127.mzXML	plastic	1.9878	daucus	root	2.2137	no	0.2259	carrot	G1
+G75095_2x_RG3_01_19205	GATACA	GATACA	cauliflower	superfood	vegetable	no	Brassicaceae	yes	G75095_2x_RG3_01_19205.mzXML	plastic	1.9567	Brassica	flower	2.142	no	0.1853	cauliflower	G1
+G75112_10x_BF8_01_23441	GATACA	GATACA	corn	non_superfood	grain/grass	not collected	Poaceae	yes	G75112_10x_BF8_01_23441.mzXML	none	2.0088	zea	fruit	2.2872	not collected	0.2784	corn	G1
+G75125_1x_RC2_01_20263	GATACA	GATACA	chard	non_superfood	vegetable	not collected	Amaranthaceae	yes	G75125_1x_RC2_01_20263.mzXML	not collected	1.9394	beta	stem	not collected	not collected	not collected	red chard	G1
+G75126_1x_RB3_01_20253	GATACA	GATACA	chard	non_superfood	vegetable	not collected	Amaranthaceae	yes	G75126_1x_RB3_01_20253.mzXML	not collected	1.9537	beta	stem	not collected	not collected	not collected	yellow chard	G1
+G75127_1x_RE8_01_18861	GATACA	GATACA	tomato	non_superfood	berry	no	Solanaceae	yes	G75127_1x_RE8_01_18861.mzXML	none	1.958	solanum	fruit	2.2119	no	0.2539	tomato	G1
+G75128_1x_RF10_01_18877	GATACA	GATACA	cucumber	non_superfood	pepo	no	Cucurbitaceae	yes	G75128_1x_RF10_01_18877.mzXML	none	1.9537	cucumis	fruit	2.042	no	0.0883	cucumber	G1
+G75129_1x_RD9_01_18841	GATACA	GATACA	onion	non_superfood	vegetable	no	Amaryllidaceae	yes	G75129_1x_RD9_01_18841.mzXML	none	1.9603	allium	bulb	2.1442	no	0.1839	red onion	G1
+G75130_rerun_5ul_RG9_01_17742	GATACA	GATACA	quinoa	superfood	grain/grass	yes	Amaranthaceae	no	G75130_rerun_5ul_RG9_01_17742.mzXML	none	1.9651	chenopodium	seed	2.0529	no	0.0878	quinoa	G1
+G75131_RH9_01_17783	GATACA	GATACA	quinoa	superfood	grain/grass	yes	Amaranthaceae	yes	G75131_RH9_01_17783.mzXML	none	1.9529	chenopodium	seed	2.0618	no	0.1089	quinoa	G1
+G75132_RC9_01_18371	GATACA	GATACA	flaxseed	superfood	grain/grass	yes	Linaceae	no	G75132_RC9_01_18371.mzXML	none	1.9687	linum	seed	2.0186	no	0.0499	golden flaxseed	G1
+G75133_RC8_01_17564	GATACA	GATACA	flaxseed	superfood	grain/grass	yes	Linaceae	no	G75133_RC8_01_17564.mzXML	none	1.9562	linum	seed	2.0891	no	0.1329	brown flaxseed	G1
+G75134_RD7_01_17576	GATACA	GATACA	sesame	non_superfood	grain/grass	yes	Pedaliaceae	no	G75134_RD7_01_17576.mzXML	none	1.9675	sesamum	seed	2.0261	no	0.0586	white sesame seed	G1
+G75135_RA9_01_17531	GATACA	GATACA	bulgur wheat	non_superfood	grain/grass	yes	Poaceae	yes	G75135_RA9_01_17531.mzXML	none	1.9655	triticum	seed	2.1867	no	0.2212	bulgur wheat	G1
+G75138_RE9_01_18374	GATACA	GATACA	chia	superfood	grain/grass	yes	Lamiaceae	no	G75138_RE9_01_18374.mzXML	none	1.9582	salvia	seed	2.1416	no	0.1834	chia	G1
+G75139_rerun_5ul_RF6_01_17718	GATACA	GATACA	hemp	superfood	grain/grass	yes	Cannabaceae	no	G75139_rerun_5ul_RF6_01_17718.mzXML	none	1.9579	cannabis	seed	2.0577	no	0.0998	hemp seed	G1
+G75140_rerun_5ul_RB7_01_17645	GATACA	GATACA	poppy seed	non_superfood	grain/grass	no	Papaveraceae	no	G75140_rerun_5ul_RB7_01_17645.mzXML	none	1.9598	papaver	seed	2.1318	no	0.172	poppy seed	G1
+G75142_rerun_5ul_RA6_01_17640	GATACA	GATACA	corn	non_superfood	grain/grass	yes	Poaceae	yes	G75142_rerun_5ul_RA6_01_17640.mzXML	none	1.9629	zea	fruit	2.0482	not collected	0.0853	corn	G1
+G75143_rerun_RB6_01_17554	GATACA	GATACA	quinoa	superfood	grain/grass	yes	Amaranthaceae	no	G75143_rerun_RB6_01_17554.mzXML	none	1.9641	chenopodium	seed	2.0964	no	0.1323	quinoa	G1
+G75159_5x_BB4_01_18892	GATACA	GATACA	clementine	non_superfood	citrus	no	Rutaceae	yes	G75159_5x_BB4_01_18892.mzXML	plastic	1.9512	citrus	fruit	2.0726	no	0.1214	clementine	G1
+G75160_1x_RC10_01_18822	GATACA	GATACA	clementine	non_superfood	citrus	no	Rutaceae	yes	G75160_1x_RC10_01_18822.mzXML	plastic	1.9636	citrus	fruit	2.1799	no	0.2163	clementine	G1
+G75162_rerun_5ul_RA5_01_17637	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	yes	G75162_rerun_5ul_RA5_01_17637.mzXML	paper	1.958	oryza	seed	1.9956	no	0.0376	long grain rice	G1
+G75163_rerun_5ul_RD5_01_17668	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	yes	G75163_rerun_5ul_RD5_01_17668.mzXML	plastic	1.963	oryza	seed	2.1321	no	0.1691	long grain rice	G1
+G75166_1x_rerun_10ul_RC7_01_18906	GATACA	GATACA	apple	non_superfood	pome	no	Rosaceae	yes	G75166_1x_rerun_10ul_RC7_01_18906.mzXML	none	1.9608	malus	fruit	1.964	no	0.0032	apple	G1
+G75167_1x_rerun_RA9_01_18846	GATACA	GATACA	apple	non_superfood	pome	no	Rosaceae	yes	G75167_1x_rerun_RA9_01_18846.mzXML	none	1.9464	malus	fruit	2.1159	no	0.1695	apple	G1
+G75168_1x_RC6_01_18817	GATACA	GATACA	blueberry	superfood	berry	no	ericacee	yes	G75168_1x_RC6_01_18817.mzXML	plastic	1.967	vaccinium	fruit	2.224	no	0.257	blueberry	G1
+G75169_1x_rerun_RB6_01_18903	GATACA	GATACA	cherry	non_superfood	drupe	no	Rosaceae	yes	G75169_1x_rerun_RB6_01_18903.mzXML	plastic	1.927	Prunus	fruit	2.2195	no	0.2925	cherry	Not Mapped
+G75172_1x_BH11_01_17354	GATACA	GATACA	basil	non_superfood	herb/spice	yes	Lamiaceae	yes	G75172_1x_BH11_01_17354.mzXML	none	1.9574	ocimum	leaf	1.9826	no	0.0252	greek basil	G1
+G75173_1x_BC11_01_17289	GATACA	GATACA	mushroom plant	non_superfood	herb/spice	yes	Rosaceae	yes	G75173_1x_BC11_01_17289.mzXML	none	1.9593	rungia	leaf	1.9759	no	0.0166	mushroom plant	G1
+G75174_1x_BD11_01_17302	GATACA	GATACA	fennel	non_superfood	vegetable	yes	Apiaceae	yes	G75174_1x_BD11_01_17302.mzXML	none	1.9139	foeniculum	leaf	1.917	no	0.0031	green fennel	G1
+G75175_1x_rerun_BE11_01_17361	GATACA	GATACA	lemon balm	non_superfood	herb/spice	yes	Lamiaceae	yes	G75175_1x_rerun_BE11_01_17361.mzXML	none	1.912	melissa	leaf	1.9326	no	0.0206	lemon balm	G1
+G75176_5x_RB11_01_17267	GATACA	GATACA	mint	non_superfood	herb/spice	yes	Lamiaceae	yes	G75176_5x_RB11_01_17267.mzXML	none	1.9221	mentha	leaf	1.9454	no	0.0233	mint mojito	G1
+G75177_1x_BF11_01_17328	GATACA	GATACA	basil	non_superfood	herb/spice	yes	Lamiaceae	yes	G75177_1x_BF11_01_17328.mzXML	none	1.9605	ocimum	leaf	1.9717	no	0.0112	purple basil	G1
+G75178_1x_BG11_01_17341	GATACA	GATACA	kale	superfood	vegetable	yes	Brassicaceae	yes	G75178_1x_BG11_01_17341.mzXML	none	1.9352	brassica	leaf	1.9622	no	0.027	lacinato kale	G1
+G75179_5x_RB2_01_17259	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	G75179_5x_RB2_01_17259.mzXML	none	1.8597	vaccinium	fruit	1.9155	no	0.0558	blueberry	G1
+G75180_1x_BA2_01_17272	GATACA	GATACA	basil	non_superfood	herb/spice	yes	Lamiaceae	yes	G75180_1x_BA2_01_17272.mzXML	none	1.9279	ocimum	leaf	1.9545	no	0.0266	basil	G1
+G75181_1x_BA11_01_17255	GATACA	GATACA	nasturtium	non_superfood	flower	yes	Tropaeolaceae	yes	G75181_1x_BA11_01_17255.mzXML	none	1.908	Tropaeolum	flower	1.91	no	0.002	nasturtium	G1
+G75182_1x_BB12_01_17268	GATACA	GATACA	lavendar	non_superfood	flower	yes	Lamiaceae	yes	G75182_1x_BB12_01_17268.mzXML	none	1.9731	lavendula	flower	1.9909	no	0.0178	lavendar	G1
+G75183_1x_rerun_BD1_01_17358	GATACA	GATACA	watercress	non_superfood	vegetable	yes	Brassicaceae	yes	G75183_1x_rerun_BD1_01_17358.mzXML	none	1.9274	nastutrium	leaf	1.9672	no	0.0398	watercress	G1
+G75184_1x_rerun_BC1_01_17360	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G75184_1x_rerun_BC1_01_17360.mzXML	none	1.9282	lactuca	leaf	1.9486	no	0.0204	romaine lettuce	G1
+G75185_1x_BB1_01_17258	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G75185_1x_BB1_01_17258.mzXML	none	1.9349	lactuca	leaf	2.0041	no	0.0692	red leaf lettuce	G1
+G75186_1x_rerun_BD2_01_17359	GATACA	GATACA	sage	non_superfood	herb/spice	yes	Lamiaceae	yes	G75186_1x_rerun_BD2_01_17359.mzXML	none	1.935	salvia	leaf	1.9481	no	0.0131	sage	G1
+G75188_1x_BG2_01_17333	GATACA	GATACA	borage leaf	non_superfood	herb/spice	yes	Boraginaceae	yes	G75188_1x_BG2_01_17333.mzXML	none	1.9446	borago	leaf	1.9718	no	0.0272	borage leaf	G1
+G75189_1x_BF3_01_17321	GATACA	GATACA	celery	non_superfood	vegetable	yes	Apiaceae	yes	G75189_1x_BF3_01_17321.mzXML	none	1.9292	apium	leaf	1.9387	no	0.0095	celery	G1
+G75190_1x_rerun_BG3_01_17375	GATACA	GATACA	parsley	non_superfood	herb/spice	yes	Apiaceae	yes	G75190_1x_rerun_BG3_01_17375.mzXML	none	1.9402	petroselinum	leaf	1.9942	no	0.054	curly parsley	G1
+G75191_1x_BE2_01_17307	GATACA	GATACA	basil	non_superfood	herb/spice	yes	Lamiaceae	yes	G75191_1x_BE2_01_17307.mzXML	none	1.9307	ocimum	leaf	1.9451	no	0.0144	african blue basil	G1
+G75192_1x_BF2_01_17320	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G75192_1x_BF2_01_17320.mzXML	none	1.9633	lactuca	leaf	1.9798	no	0.0165	red leaf lettuce	G1
+G75193_1x_rerun_BH10_01_17377	GATACA	GATACA	cilantro	non_superfood	herb/spice	yes	Apiaceae	yes	G75193_1x_rerun_BH10_01_17377.mzXML	none	1.9622	coriandrum	leaf	1.9738	no	0.0116	cilantro	G1
+G75194_1x_BG10_01_17340	GATACA	GATACA	curry plant	non_superfood	herb/spice	yes	Asteraceae	yes	G75194_1x_BG10_01_17340.mzXML	none	1.9518	helichcrysum	leaf	1.957	no	0.0052	curry plant	G1
+G75195_1x_rerun_BF10_01_17373	GATACA	GATACA	dill	non_superfood	herb/spice	yes	Apiaceae	yes	G75195_1x_rerun_BF10_01_17373.mzXML	none	1.9586	anethum	leaf	1.9629	no	0.0043	dill	G1
+G75196_1x_BE10_01_17314	GATACA	GATACA	dill	non_superfood	flower	yes	Apiaceae	yes	G75196_1x_BE10_01_17314.mzXML	none	1.9492	anethum	flower	1.9628	no	0.0136	dill flower	G1
+G75197_1x_BD10_01_17301	GATACA	GATACA	arugula	non_superfood	vegetable	yes	Brassicaceae	yes	G75197_1x_BD10_01_17301.mzXML	none	1.9699	eruca	leaf	1.9872	no	0.0173	arugula	G1
+G75198_1x_BC10_01_17288	GATACA	GATACA	thyme	non_superfood	herb/spice	yes	Lamiaceae	yes	G75198_1x_BC10_01_17288.mzXML	none	1.9587	thymus	leaf	1.9792	no	0.0205	orange thyme	G1
+G75199_1x_BB10_01_17266	GATACA	GATACA	sage	non_superfood	herb/spice	yes	Lamiaceae	yes	G75199_1x_BB10_01_17266.mzXML	none	1.9523	salvia	leaf	1.9636	no	0.0113	pineapple sage	G1
+G75200_1x_BA10_01_17277	GATACA	GATACA	squash	non_superfood	pepo	yes	Cucurbitaceae	yes	G75200_1x_BA10_01_17277.mzXML	none	1.9658	cucurbita	fruit	2.0395	no	0.0737	zucchini	G1
+G75201_1x_rerun_BH1_01_17367	GATACA	GATACA	grapes	non_superfood	berry	yes	Vitaceae	yes	G75201_1x_rerun_BH1_01_17367.mzXML	none	1.9576	vitis	fruit	2.0505	no	0.0929	grape	G1
+G75202_1x_rerun_BG1_01_17374	GATACA	GATACA	marigold	non_superfood	flower	yes	Asteraceae	yes	G75202_1x_rerun_BG1_01_17374.mzXML	none	1.9637	tagetes	flower	1.9951	no	0.0314	marigold	G1
+G75203_1x_rerun_BF1_01_17370	GATACA	GATACA	cannabis leaf	non_superfood	herb/spice	yes	Cannabaceae	yes	G75203_1x_rerun_BF1_01_17370.mzXML	none	1.9559	cannabis	leaf	1.9345	no	not collected	cannabis leaf	G1
+G75204_1x_rerun_BE1_01_17369	GATACA	GATACA	rosemary	non_superfood	herb/spice	yes	Lamiaceae	yes	G75204_1x_rerun_BE1_01_17369.mzXML	none	1.9615	rosmarinus	leaf	1.9714	no	0.0099	rosemary	G1
+G75205_10uL_RA1_01_17245	GATACA	GATACA	cucumber	non_superfood	pepo	yes	Cucurbitaceae	yes	G75205_10uL_RA1_01_17245.mzXML	none	1.9563	cucumis	fruit	2.0867	no	0.1304	armenian cucumber	G1
+G75206_1x_BH8_01_17352	GATACA	GATACA	pepper	superfood	berry	yes	Solanaceae	yes	G75206_1x_BH8_01_17352.mzXML	none	1.9604	capsicum	fruit	1.9884	no	0.028	jalapeno pepper	G1
+G75207_1x_BG8_01_17339	GATACA	GATACA	guava	non_superfood	berry	yes	Myrtaceae	yes	G75207_1x_BG8_01_17339.mzXML	none	1.9542	psidium	fruit	2.0578	no	0.1036	strawberry guava	G1
+G75208_1x_rerun_BF8_01_17372	GATACA	GATACA	pepper	superfood	berry	yes	Solanaceae	yes	G75208_1x_rerun_BF8_01_17372.mzXML	none	1.9725	capsicum	fruit	2.0628	no	0.0903	pepperonchini	G1
+G75209_1x_BH2_01_17346	GATACA	GATACA	borage flower	non_superfood	flower	yes	Boraginaceae	yes	G75209_1x_BH2_01_17346.mzXML	none	1.9699	borago	flower	2.0051	no	0.0352	borage flower	G1
+G75210_1x_rerun_BE3_01_17365	GATACA	GATACA	squash	non_superfood	flower	yes	Cucurbitaceae	yes	G75210_1x_rerun_BE3_01_17365.mzXML	none	1.9703	cucurbita	flower	2.0243	no	0.054	zuchini blossom	G1
+G75211_1x_BD3_01_17295	GATACA	GATACA	squash	non_superfood	berry	yes	Cucurbitaceae	yes	G75211_1x_BD3_01_17295.mzXML	none	1.9644	cucurbita	fruit	2.0192	no	0.0548	zucchini	G1
+G75212_1x_BC3_01_17282	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G75212_1x_BC3_01_17282.mzXML	none	1.9616	solanum	fruit	2.0465	no	0.0849	sungold tomato	G1
+G75213_1x_BB3_01_17260	GATACA	GATACA	eggplant	non_superfood	berry	yes	Solanaceae	yes	G75213_1x_BB3_01_17260.mzXML	none	1.9626	solanum	fruit	2.0473	no	0.0847	japanese eggplant	G1
+G75249_5x_RC7_01_19495	GATACA	GATACA	squash	non_superfood	pepo	yes	Cucurbitaceae	yes	G75249_5x_RC7_01_19495.mzXML	none	not collected	cucurbita	fruit	not collected	no	not collected	zucchini	G1
+G75250_5x_RA7_01_19465	GATACA	GATACA	squash	non_superfood	pepo	yes	Cucurbitaceae	yes	G75250_5x_RA7_01_19465.mzXML	none	not collected	cucurbita	fruit	not collected	no	not collected	zucchini	G1
+G75571_2x_5ul_RE11_01_19175	GATACA	GATACA	pepper	superfood	berry	no	Solanaceae	yes	G75571_2x_5ul_RE11_01_19175.mzXML	ceramic	1.9814	capsicum	fruit	1.9015	no	not applicable	red chili pepper	G1
+G75575_RH5_01_17768	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	yes	G75575_RH5_01_17768.mzXML	none	1.9809	oryza	seed	2.1438	no	0.1629	rice	G1
+G75576_1x_RF8_01_18875	GATACA	GATACA	cabbage	non_superfood	vegetable	no	Brassicaceae	yes	G75576_1x_RF8_01_18875.mzXML	none	1.9239	brassica	leaf	2.0882	no	0.1643	cabbage	G1
+G75586_5x_rerun_BB4_01_20077	GATACA	GATACA	farro	non_superfood	grain/grass	yes	Poaceae	yes	G75586_5x_rerun_BB4_01_20077.mzXML	none	1.9805	triticum	seed	2.178	no	0.1975	pearled farro	G1
+G75587_5x_BD9_01_19996	GATACA	GATACA	lentil	non_superfood	legume	yes	Fabaceae	yes	G75587_5x_BD9_01_19996.mzXML	none	1.9911	lens	seed	2.2106	not collected 	0.2195	french green	G1
+G75588_5x_10ul_BA9_01_19874	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G75588_5x_10ul_BA9_01_19874.mzXML	none	1.9839	glycine	seed	2.2103	no	0.2264	soy bean	G1
+G75589_rerun_5ul_RF7_01_17721	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G75589_rerun_5ul_RF7_01_17721.mzXML	none	1.9879	vigna	seed	2.2383	no	0.2504	adzuki bean	G1
+G75591_1x_RD4_01_18829	GATACA	GATACA	mango	non_superfood	drupe	yes	Anacardiaceae	yes	G75591_1x_RD4_01_18829.mzXML	glass	1.9512	mangifera	fruit	2.2412	no	0.29	mango	G1
+G75636_1x_rerun_RD6_01_18856	GATACA	GATACA	raspberry	non_superfood	drupe_aggregate	not collected	Rosaceae	yes	G75636_1x_rerun_RD6_01_18856.mzXML	none	1.9745	rubus	fruit	2.1846	no	0.2101	red raspberry	G1
+G75637_1x_RG6_01_18886	GATACA	GATACA	blackberry	non_superfood	drupe_aggregate	not collected	Rosaceae	yes	G75637_1x_RG6_01_18886.mzXML	none	1.9789	rubus	fruit	2.1813	no	0.2024	blackberry	G1
+G75649_RH10_01_17787	GATACA	GATACA	bean	superfood	legume	yes	ericacee	yes	G75649_RH10_01_17787.mzXML	none	1.984	phaseolus	seed	2.1395	no	0.1555	cranberry bean	G1
+G75665_1x_RA4_01_18788	GATACA	GATACA	pea	non_superfood	vegetable	yes	Fabaceae	yes	G75665_1x_RA4_01_18788.mzXML	metal	not collected	pisum	seed	not collected	no	not collected	pea	Not Mapped
+G75671_1x_RG4_01_18884	GATACA	GATACA	eggplant	non_superfood	berry	no	Solanaceae	yes	G75671_1x_RG4_01_18884.mzXML	none	1.9866	solanum	fruit	2.2791	no	0.2925	eggplant	G1
+G75673_rerun_5ul_RD8_01_17670	GATACA	GATACA	wheat	non_superfood	grain/grass	yes	Poaceae	yes	G75673_rerun_5ul_RD8_01_17670.mzXML	none	1.9772	triticum	seed	1.9858	no	0.0086	wheat bran	G1
+G75674_RF8_01_17617	GATACA	GATACA	coconut	non_superfood	drupe	yes	Arecaceae	yes	G75674_RF8_01_17617.mzXML	none	1.9813	cocos	fruit	1.9792	no	not applicable	coconut	G1
+G75675_rerun_5ul_RG8_01_17739	GATACA	GATACA	almond	non_superfood	drupe	no	Rosaceae	no	G75675_rerun_5ul_RG8_01_17739.mzXML	none	1.9797	Prunus	seed	1.9916	no	0.0119	almond	G1
+G75685_5x_rerun_3ul_BD8_01_18897	GATACA	GATACA	pepper	non_superfood	berry	not collected	Rutaceae	yes	G75685_5x_rerun_3ul_BD8_01_18897.mzXML	none	1.9778	capsicum	fruit	1.972	no	not applicable	black pepper	G1
+G75686_1x_RG8_01_18889	GATACA	GATACA	kale	non_superfood	vegetable	not collected	Piperaceae	yes	G75686_1x_RG8_01_18889.mzXML	none	1.9863	brassica	leaf	1.9941	no	0.0078	kale	G1
+G75693_rerun_5ul_RG10_01_17745	GATACA	GATACA	bean	superfood	legume	yes	Brassicaceae	yes	G75693_rerun_5ul_RG10_01_17745.mzXML	none	1.9782	phaseolus	seed	2.1861	no	0.2079	european soldier bean	G1
+G75689_1x_RA6_01_18790	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	G75689_1x_RA6_01_18790.mzXML	can	not collected	zea	fruit	not collected	not collected	not collected	corn	G1
+G75701_rerun_RA7_01_17549	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G75701_rerun_RA7_01_17549.mzXML	none	1.9733	phaseolus	seed	2.1721	no	0.1988	lima bean	G1
+G75702_RC7_01_17563	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G75702_RC7_01_17563.mzXML	none	1.9851	phaseolus	seed	2.2411	no	0.256	pinto bean	G1
+G75703_RH7_01_17774	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G75703_RH7_01_17774.mzXML	none	1.9864	phaseolus	seed	2.24	no	0.2536	black orca bean	G1
+G75704_1x_RC4_01_18815	GATACA	GATACA	fig	non_superfood	multifruit	yes	Moraceae	yes	G75704_1x_RC4_01_18815.mzXML	none	1.9803	ficus	fruit	2.3339	no	0.3536	fig	G1
+G75705_RB8_01_17543	GATACA	GATACA	grape	non_superfood	berry	yes	Vitaceae	yes	G75705_RB8_01_17543.mzXML	none	1.9793	vitis	fruit	2.1766	no	0.1973	grape	G1
+G75706_RF9_01_17618	GATACA	GATACA	oat	non_superfood	grain/grass	no	Poaceae	no	G75706_RF9_01_17618.mzXML	none	1.97	avena	seed	2.0383	no	0.0683	rolled oats	G1
+G75707_rerun_5ul_RA8_01_17642	GATACA	GATACA	oat	non_superfood	grain/grass	yes	Poaceae	no	G75707_rerun_5ul_RA8_01_17642.mzXML	none	1.975	avena	seed	2.0598	no	0.0848	rolled oats	G1
+G75708_rerun_5ul_RE6_01_17703	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	no	G75708_rerun_5ul_RE6_01_17703.mzXML	none	1.9815	oryza	seed	2.0848	no	0.1033	long grain brown rice	G1
+G75709_rerun_5ul_RD9_01_17672	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	no	G75709_rerun_5ul_RD9_01_17672.mzXML	none	1.9884	oryza	seed	2.2925	no	0.3041	long grain brown rice	G1
+G75710_RD6_01_17575	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	no	G75710_RD6_01_17575.mzXML	none	1.9862	oryza	seed	2.1343	no	0.1481	short grain brown rice	G1
+G75711_RC6_01_18378	GATACA	GATACA	millet	non_superfood	grain/grass	yes	Poaceae	no	G75711_RC6_01_18378.mzXML	none	1.9881	pennisetum	seed	2.0915	no	0.1034	hulled millet	G1
+G75712_rerun_5ul_RE8_01_17709	GATACA	GATACA	amaranth	non_superfood	grain/grass	yes	Amaranthaceae	no	G75712_rerun_5ul_RE8_01_17709.mzXML	none	1.9816	amaranthus	seed	2.0251	no	0.0435	amaranth	G1
+G75713_rerun_5ul_RG6_01_17730	GATACA	GATACA	wheat	non_superfood	grain/grass	no	Poaceae	yes	G75713_rerun_5ul_RG6_01_17730.mzXML	none	1.9881	triticum	seed	2.0244	no	0.0363	durum wheat	G1
+G75714_RH6_01_17771	GATACA	GATACA	wheat	non_superfood	grain/grass	yes	Poaceae	yes	G75714_RH6_01_17771.mzXML	none	1.9944	triticum	seed	2.0704	no	0.076	durum wheat	G1
+G75716_rerun_5ul_RE7_01_17706	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G75716_rerun_5ul_RE7_01_17706.mzXML	none	1.9776	vigna	seed	2.0566	no	0.079	mung bean	G1
+G75717_RB9_01_17544	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	no	G75717_RB9_01_17544.mzXML	none	1.9637	oryza	seed	2.1007	no	0.137	short grain brown rice	G1
+G75839_1x_RG5_01_20558	GATACA	GATACA	taro	non_superfood	vegetable	not collected	Araceae	yes	G75839_1x_RG5_01_20558.mzXML	not collected	1.9306	Colocasia	root	1.9648	not collected	0.0342	taro	G1
+G75840_1x_rerun_8ul_RC5_01_20392	GATACA	GATACA	papaya	non_superfood	berry	no	Caricaceae_cactaceae	yes	G75840_1x_rerun_8ul_RC5_01_20392.mzXML	not collected	1.9532	carica	fruit	1.9758	no	0.0226	papaya	G1
+G75842_1x_rerun_15ul_RF5_01_20570	GATACA	GATACA	cactus	non_superfood	cactus	no	Cactaceae	yes	G75842_1x_rerun_15ul_RF5_01_20570.mzXML	none	1.9448	opuntia	leaf	not collected	no	not collected	cactus	G1
+G75847_5x_BC5_01_19673	GATACA	GATACA	mandarin	non_superfood	herb/spice	no	Rutaceae	yes	G75847_5x_BC5_01_19673.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	mandarin	G1
+G78811_p12_g12_rerun_GC8_01_21708	GATACA	GATACA	bay leaf	non_superfood	herb/spice	yes	Lauraceae	yes	G78811_p12_g12_rerun_GC8_01_21708.mzXML	none	1.9511	Laurus	leaf	1.9969	no	0.0458	bay leaf	G1
+G78829_1x_RE12_01_18865	GATACA	GATACA	coconut	non_superfood	drupe	no	Arecaceae	yes	G78829_1x_RE12_01_18865.mzXML	not collected	1.9467	cocos	fruit	2.0405	no	0.0938	coconut	G1
+G78830_RH12_01_17795	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	G78830_RH12_01_17795.mzXML	can	1.9496	zea	fruit	2.0907	not collected	0.1411	corn	G1
+G78831_5x_BG8_01_20043	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	yes	G78831_5x_BG8_01_20043.mzXML	not collected	1.9491	oryza	seed	2.0777	no	0.1286	brown rice	G1
+G78835_1x_RC12_01_18824	GATACA	GATACA	plantain	non_superfood	berry	not collected	Musaceae	no	G78835_1x_RC12_01_18824.mzXML	not collected	1.9283	musa	fruit	2.0486	no	0.1203	plantain	G1
+G78836_5x_BD4_01_19989	GATACA	GATACA	bean	non_superfood	legume	not collected	Fabaceae	yes	G78836_5x_BD4_01_19989.mzXML	not collected	1.9442	phaseolus	seed	2.1558	no	0.2116	bean	G1
+G78837_RG12_01_17634	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	no	G78837_RG12_01_17634.mzXML	none	not collected	oryza	seed	not collected	no	not collected	rice	G1
+G78862_RD2_01_17571	GATACA	GATACA	lentil	non_superfood	legume	yes	Fabaceae	yes	G78862_RD2_01_17571.mzXML	none	1.9852	lens	seed	2.2682	no	0.283	red lentil	G1
+G78863_rerun_5ul_RE2_01_17697	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G78863_rerun_5ul_RE2_01_17697.mzXML	none	1.9952	vigna	seed	2.2845	no	0.2893	adzuki bean	G1
+G78864_RC2_01_17558	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	yes	G78864_RC2_01_17558.mzXML	none	1.9977	oryza	seed	2.2212	no	0.2235	forbidden rice	G1
+G78869_5x_RE6_01_19523	GATACA	GATACA	hops	non_superfood	vegetable	no	Cannabaceae	yes	G78869_5x_RE6_01_19523.mzXML	plastic	1.9942	Humulus	flower	not provided	not collected	not provided	crystal hops	G1
+G78870_5x_10ul_RG6_01_19555	GATACA	GATACA	hops	non_superfood	vegetable	no	Cannabaceae	yes	G78870_5x_10ul_RG6_01_19555.mzXML	plastic	1.9813	Humulus	flower	not provided	not collected	not provided	styrian golding hops	G1
+G78878_1x_RH6_01_20363	GATACA	GATACA	quince	non_superfood	pome	no	Rosaceae	yes	G78878_1x_RH6_01_20363.mzXML	styrofoam	1.9853	cydonia	fruit	2.0659	no	0.0806	quince	G1
+G78883_lentil_red_BF1_01_20549	GATACA	GATACA	lentil	non_superfood	legume	no	Fabaceae	yes	G78883_lentil_red_BF1_01_20549.mzXML	plastic	1.9752	lens	seed	not provided	no	not provided	red lentil	Not Mapped
+G78884_chia_seed_BG1_01_20553	GATACA	GATACA	chia	superfood	grain/grass	yes	Lamiaceae	yes	G78884_chia_seed_BG1_01_20553.mzXML	plastic	1.9807	salvia	seed	not provided	no	not collected	chia	G1
+G78909_1x_RD5_01_18830	GATACA	GATACA	avocado	superfood	berry	yes	Lauraceae	yes	G78909_1x_RD5_01_18830.mzXML	none	1.9789	persea	fruit	1.2981	no	not applicable	avocado	G1
+G78910_1x_RC5_01_18816	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G78910_1x_RC5_01_18816.mzXML	not collected	1.9994	Solanum	fruit	1.529	no	not applicable	green tomato	G1
+G78913_RF3_01_17605	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	yes	G78913_RF3_01_17605.mzXML	none	1.9777	oryza	seed	2.0465	no	0.0688	forbidden rice	G1
+G78914_rerun_RB4_01_17552	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	yes	G78914_rerun_RB4_01_17552.mzXML	none	1.9951	oryza	seed	2.1271	no	0.132	jade pearl rice	G1
+G78915_RG3_01_17625	GATACA	GATACA	wheat	non_superfood	grain/grass	yes	Poaceae	no	G78915_RG3_01_17625.mzXML	none	1.9847	triticum	seed	2.1107	no	0.126	wheat semolina	G1
+G78916_RF2_01_17604	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	yes	G78916_RF2_01_17604.mzXML	none	1.9755	oryza	seed	2.0977	no	0.1222	red rice	G1
+G78917_rerun_5ul_RC4_01_17654	GATACA	GATACA	lentil	non_superfood	legume	yes	Fabaceae	yes	G78917_rerun_5ul_RC4_01_17654.mzXML	none	1.984	lens	seed	2.1229	no	0.1389	black lentil	G1
+G78918_rerun_RA4_01_17526	GATACA	GATACA	lentil	non_superfood	legume	yes	Fabaceae	yes	G78918_rerun_RA4_01_17526.mzXML	none	1.9917	lens	seed	2.1388	no	0.1471	red lentil	G1
+G78919_RA2_01_17522	GATACA	GATACA	rice	non_superfood	grain/grass	yes	Poaceae	yes	G78919_RA2_01_17522.mzXML	none	1.9925	oryza	seed	2.2175	no	0.225	brown rice	G1
+G78920_RB3_01_17538	GATACA	GATACA	pumpkin	non_superfood	grain/grass	yes	Cucurbitaceae	yes	G78920_RB3_01_17538.mzXML	none	2.003	cucurbita	seed	2.1617	no	0.1587	pumpkin	G1
+G78921_rerun_5ul_RD3_01_17663	GATACA	GATACA	sunflower	non_superfood	flower	yes	Asteraceae	yes	G78921_rerun_5ul_RD3_01_17663.mzXML	none	1.9819	helianthus	seed	2.1323	no	0.1504	sunflower	G1
+G78926_rerun_5ul_RD4_01_17754	GATACA	GATACA	wheat	non_superfood	grain/grass	yes	Poaceae	no	G78926_rerun_5ul_RD4_01_17754.mzXML	none	1.9879	triticum	seed	2.205	no	0.2171	white wheat berry	G1
+G78927_rerun_5ul_RG2_01_17724	GATACA	GATACA	pecan	non_superfood	drupe	yes	Juglandaceae	yes	G78927_rerun_5ul_RG2_01_17724.mzXML	none	1.9996	carya	seed	2.161	no	0.1614	pecan	G1
+G78928_RF4_01_18381	GATACA	GATACA	macadamia	non_superfood	drupe	no	Proteaceae	yes	G78928_RF4_01_18381.mzXML	none	2.001	macadamia	seed	2.1851	no	0.1841	macadamia	G1
+G78929_rerun_5ul_RC3_01_17653	GATACA	GATACA	brazil nut	non_superfood	drupe	yes	Lecythidaceae	yes	G78929_rerun_5ul_RC3_01_17653.mzXML	none	1.9873	bertholletia	seed	2.1696	no	0.1823	brazil nut	G1
+G78930_RF5_01_17607	GATACA	GATACA	cashew	superfood	drupe	yes	Anacardiaceae	yes	G78930_RF5_01_17607.mzXML	none	1.9922	anacardium	seed	2.2247	no	0.2325	cashew	G1
+G78951_rerun_5ul_RE4_01_17700	GATACA	GATACA	almond	non_superfood	drupe	no	Rosaceae	no	G78951_rerun_5ul_RE4_01_17700.mzXML	plastic	1.9874	Prunus	seed	2.161	no	0.1736	almond	G1
+G78952_RH3_01_17762	GATACA	GATACA	peanut	non_superfood	legume	no	Fabaceae	no	G78952_RH3_01_17762.mzXML	plastic	1.9861	arachis	seed	2.0609	no	0.0748	peanut	G1
+G78953_RH2_01_17759	GATACA	GATACA	walnut	non_superfood	drupe	no	Juglandaceae	no	G78953_RH2_01_17759.mzXML	plastic	1.9571	juglans	seed	2.2008	no	0.2437	walnut	G1
+G78954_p4_e4_GA1_01_21651	GATACA	GATACA	coffee	non_superfood	berry	no	Rubiaceae	yes	G78954_p4_e4_GA1_01_21651.mzXML	metal	1.9729	coffea	fruit	2.0474	no	0.0745	coffee	G1
+G78955_5x_RB4_01_19475	GATACA	GATACA	coffee	non_superfood	berry	no	Rubiaceae	yes	G78955_5x_RB4_01_19475.mzXML	metal	1.987	coffea	fruit	2.0714	no	0.0844	coffee	G1
+G78956_RH4_01_17765	GATACA	GATACA	oat	non_superfood	grain/grass	yes	Poaceae	no	G78956_RH4_01_17765.mzXML	none	1.9651	avena	seed	2.0574	no	0.0923	rolled oats	G1
+G78967_RG4_01_17626	GATACA	GATACA	barley	non_superfood	grain/grass	yes	Poaceae	yes	G78967_RG4_01_17626.mzXML	none	1.9859	hordeum	seed	2.2336	no	0.2477	barley	G1
+G78971_1x_BH8_01_20273	GATACA	GATACA	pepper	non_superfood	berry	no	Solanaceae	yes	G78971_1x_BH8_01_20273.mzXML	glass	1.981	capsicum	fruit	1.9854	no	0.0044	smoked paprika	Not Mapped
+G78972_2x_RB10_01_19120	GATACA	GATACA	cinnamon	non_superfood	herb/spice	no	Lauraceae	yes	G78972_2x_RB10_01_19120.mzXML	plastic	1.9752	Cinnamomum	stem	2.0534	no	0.0782	saigon cinnamon	G1
+G78973_1x_BB7_01_20144	GATACA	GATACA	nutmeg	non_superfood	herb/spice	yes	Myristicaceae	yes	G78973_1x_BB7_01_20144.mzXML	glass	1.9791	Myristica	seed	2.0046	no	0.0255	nutmeg	G1
+G78975_1x_RG5_01_18885	GATACA	GATACA	mango	non_superfood	drupe	yes	Anacardiaceae	yes	G78975_1x_RG5_01_18885.mzXML	plastic	1.9759	Mangifera	fruit	2.1557	non GMO	0.1798	mango	G1
+G78976_1x_RE5_01_18854	GATACA	GATACA	carrot	non_superfood	vegetable	no	Apiaceae	yes	G78976_1x_RE5_01_18854.mzXML	plastic	1.9691	daucus	root	2.1293	no	0.1602	carrot	G1
+G78979_1x_rerun_RA7_01_18845	GATACA	GATACA	melon	non_superfood	pepo	no	Cucurbitaceae	yes	G78979_1x_rerun_RA7_01_18845.mzXML	none	1.9383	cucumis	fruit	2.4065	no	0.4682	cantelope	G1
+G78982_1x_RF7_01_18968	GATACA	GATACA	passionfruit	non_superfood	berry	yes	Passifloraceae	yes	G78982_1x_RF7_01_18968.mzXML	none	1.9724	Passiflora	fruit	2.3329	no	0.3605	Frederick passion fruit	G1
+G78983_1x_RG7_01_18888	GATACA	GATACA	guava	non_superfood	berry	yes	Myrtaceae	yes	G78983_1x_RG7_01_18888.mzXML	none	1.9705	Psidium	fruit	2.154	no	0.1835	red guava	G1
+G78986_RB2_01_17537	GATACA	GATACA	bean	non_superfood	legume	not collected	Cicereae	yes	G78986_RB2_01_17537.mzXML	none	1.9784	cicer	seed	2.2238	no	0.2454	garbanzo bean	G1
+G78987_RE3_01_17586	GATACA	GATACA	quinoa	superfood	grain/grass	not collected	Amaranthaceae	yes	G78987_RE3_01_17586.mzXML	none	1.9689	chenopodium	seed	2.0636	no	0.0947	quinoa	G1
+G78988_RA3_01_17523	GATACA	GATACA	wheat	non_superfood	grain/grass	not collected	Poaceae	yes	G78988_RA3_01_17523.mzXML	none	1.9649	triticum	seed	2.1216	no	0.1567	durum wheat	G1
+G78996_1x_RD3_01_18828	GATACA	GATACA	passionfruit	non_superfood	berry	yes	Passifloraceae	yes	G78996_1x_RD3_01_18828.mzXML	none	1.991	passiflora	fruit	2.1985	no	0.2075	passionfruit	G1
+G78997_1x_RD12_01_18844	GATACA	GATACA	passionfruit	non_superfood	berry	yes	Passifloraceae	yes	G78997_1x_RD12_01_18844.mzXML	none	1.9906	passiflora	fruit	2.218	no	0.2274	passionfruit	G1
+G78998_1x_rerun_10ul_RC3_01_18905	GATACA	GATACA	apple	non_superfood	pome	not collected	Rosaceae	yes	G78998_1x_rerun_10ul_RC3_01_18905.mzXML	none	1.9903	malus	fruit	2.0828	no	0.0925	apple	G1
+G78999_1x_RB3_01_18800	GATACA	GATACA	raspberry	non_superfood	drupe_aggregate	yes	Rosaceae	yes	G78999_1x_RB3_01_18800.mzXML	plastic	2.0318	rubus	fruit	2.2851	no	0.2533	red raspberry	G1
+G79000_1x_RG2_01_18882	GATACA	GATACA	cucumber	non_superfood	pepo	yes	Cucurbitaceae	yes	G79000_1x_RG2_01_18882.mzXML	plastic	1.9756	cucumis	fruit	2.0987	no	0.1231	cucumber	G1
+G79001_1x_rerun_RB2_01_18857	GATACA	GATACA	peach	non_superfood	drupe	yes	Rosaceae	yes	G79001_1x_rerun_RB2_01_18857.mzXML	none	1.961	Prunus	fruit	2.1807	no	0.2197	white peach	G1
+G79185_1x_rerun_drift_RB6_01_20544	GATACA	GATACA	wonderberry	non_superfood	berry	yes	Solanaceae	yes	G79185_1x_rerun_drift_RB6_01_20544.mzXML	none	1.9988	solanum	fruit	2.2121	no	0.2133	wonderberry	G1
+G79186_1x_5ul_RD6_01_20306	GATACA	GATACA	guava	non_superfood	berry	yes	Myrtaceae	yes	G79186_1x_5ul_RD6_01_20306.mzXML	none	1.9876	psidium	fruit	2.1008	no	0.1132	strawberry guava	G1
+G79187_1x_RH5_01_20362	GATACA	GATACA	guava	non_superfood	berry	yes	Myrtaceae	yes	G79187_1x_RH5_01_20362.mzXML	none	1.996	psidium	fruit	2.111	no	0.115	lemon guava	G1
+G79192_5x_rerun_BH3_01_20111	GATACA	GATACA	wheat	non_superfood	grain/grass	no	Poaceae	no	G79192_5x_rerun_BH3_01_20111.mzXML	plastic	2.0028	triticum	seed	not provided	no	not provided	farro	G1
+G79193_5x_BG3_01_20036	GATACA	GATACA	wheat	non_superfood	grain/grass	no	Poaceae	no	G79193_5x_BG3_01_20036.mzXML	plastic	2.0011	triticum	seed	not provided	no	not provided	bulgur wheat	G1
+G79194_5x_BD3_01_19988	GATACA	GATACA	wheat	non_superfood	grain/grass	no	Poaceae	no	G79194_5x_BD3_01_19988.mzXML	cardboard	1.9979	triticum	seed	not provided	no	not provided	durum wheat	G1
+G79202_1x_RF9_01_18876	GATACA	GATACA	coffee	non_superfood	berry	no	Rubiaceae	yes	G79202_1x_RF9_01_18876.mzXML	plastic	2.0002	coffea	fruit	not provided	no	not provided	coffee	G1
+G79203_1x_RE9_01_18862	GATACA	GATACA	coffee	non_superfood	berry	no	Rubiaceae	yes	G79203_1x_RE9_01_18862.mzXML	plastic	1.9428	coffea	fruit	not provided	no	not provided	coffee	G1
+G79204_1x_RB9_01_18806	GATACA	GATACA	coffee	non_superfood	berry	no	Rubiaceae	yes	G79204_1x_RB9_01_18806.mzXML	plastic	1.9875	coffea	fruit	not provided	no	not provided	coffee	G1
+G79209_1x_RF3_01_18869	GATACA	GATACA	pear	non_superfood	pome	not collected	Rosaceae	yes	G79209_1x_RF3_01_18869.mzXML	none	2.0082	pyrus	fruit	2.2043	no	0.1961	barlett pear	G1
+G79214_5x_BE8_01_20011	GATACA	GATACA	oat	non_superfood	grain/grass	yes	Poaceae	yes	G79214_5x_BE8_01_20011.mzXML	none	1.9498	avena	seed	2.1673	no	0.2175	oat	G1
+G79230_1x_RG9_01_18890	GATACA	GATACA	carrot	non_superfood	vegetable	not collected	Apiaceae	yes	G79230_1x_RG9_01_18890.mzXML	glass	1.9973	daucus	root	2.1164	not collected	0.1191	carrot	Not Mapped
+G79234_5x_BG11_01_18893	GATACA	GATACA	olive	non_superfood	drupe	not collected	Oleaceae	yes	G79234_5x_BG11_01_18893.mzXML	glass	2.0016	olea	fruit	2.3247	not collected	0.3231	olive	G1
+G79237_1x_RA10_01_18794	GATACA	GATACA	artichoke	non_superfood	flower	not collected	Asteraceae	yes	G79237_1x_RA10_01_18794.mzXML	glass	1.9914	cynara	flower	2.1677	not collected	0.1763	artichoke	G1
+G79238_1x_RB10_01_18807	GATACA	GATACA	artichoke	non_superfood	flower	not collected	Asteraceae	yes	G79238_1x_RB10_01_18807.mzXML	glass	1.996	cynara	flower	2.1925	not collected	0.1965	artichoke	G1
+G79246_1x_RD10_01_18842	GATACA	GATACA	cucumber	non_superfood	pepo	not collected	Cucurbitaceae	yes	G79246_1x_RD10_01_18842.mzXML	glass	2.0034	cucumis	fruit	2.3662	not collected	0.3628	cucumber	G1
+G79248_1x_RB11_01_18808	GATACA	GATACA	celery	non_superfood	vegetable	not collected	Apiaceae	yes	G79248_1x_RB11_01_18808.mzXML	glass	2.0018	apium	stem	2.1039	not collected	0.1021	celery	G1
+G79255_1x_RE11_01_18864	GATACA	GATACA	cucumber	non_superfood	pepo	not collected	Cucurbitaceae	yes	G79255_1x_RE11_01_18864.mzXML	glass	2.0038	cucumis	fruit	2.3254	not collected	0.3216	cucumber	G1
+G79266_1x_RG3_01_18883	GATACA	GATACA	artichoke	non_superfood	flower	no	Asteraceae	yes	G79266_1x_RG3_01_18883.mzXML	plastic	1.9991	cynara	flower	2.0601	no	0.061	globe artichoke	G1
+G79268_5x_BB3_01_19952	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	G79268_5x_BB3_01_19952.mzXML	plastic	1.9967	zea	fruit	not provided	not collected	not provided	corn	G1
+G79271_5x_BC2_01_19970	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	G79271_5x_BC2_01_19970.mzXML	plastic	2.0034	zea	fruit	not provided	not collected	not provided	corn	G1
+G79273_5x_rerun_BH2_01_20110	GATACA	GATACA	quinoa	superfood	grain/grass	yes	Amaranthaceae	yes	G79273_5x_rerun_BH2_01_20110.mzXML	plastic	2.0107	Chenopodium	seed	not provided	no	not provided	quinoa	G1
+G79275_1x_RB5_01_18802	GATACA	GATACA	peach	non_superfood	drupe	not collected	Rosaceae	yes	G79275_1x_RB5_01_18802.mzXML	none	2.0007	Prunus	fruit	1.9345	no	not applicable	donut peach	G1
+G79276_1x_RG8_01_20353	GATACA	GATACA	grape	non_superfood	berry	no	Vitaceae	yes	G79276_1x_RG8_01_20353.mzXML	not collected	2.0064	solanum	fruit	2.1894	no	0.183	red grape	G1
+G79278_1x_RH9_01_20366	GATACA	GATACA	dandelion green	non_superfood	vegetable	no	Asteraceae	yes	G79278_1x_RH9_01_20366.mzXML	cardboard	2.0092	Taraxacum	leaf	2.0397	no	0.0305	dandelion green	G1
+G79279_1x_RG9_01_20354	GATACA	GATACA	bok choy	non_superfood	vegetable	no	Brassicaceae	yes	G79279_1x_RG9_01_20354.mzXML	cardboard	2.0122	brassica	leaf	2.031	no	0.0188	bok choy	G1
+G79280_1x_RF9_01_20341	GATACA	GATACA	bok choy	non_superfood	vegetable	no	Brassicaceae	yes	G79280_1x_RF9_01_20341.mzXML	cardboard	1.9971	brassica	stem	2.1125	no	0.1154	bok choy	G1
+G79281_1x_rerun_10ul_RB9_01_20389	GATACA	GATACA	leek	non_superfood	vegetable	no	Amaryllidaceae	yes	G79281_1x_rerun_10ul_RB9_01_20389.mzXML	cardboard	2.0072	allium	stem	2.0732	no	0.066	leek	G1
+G79282_1x_rerun_drift_RA9_01_20547	GATACA	GATACA	broccoli	superfood	vegetable	no	Brassicaceae	yes	G79282_1x_rerun_drift_RA9_01_20547.mzXML	cardboard	2.0039	brassica	flower	2.1259	no	0.122	broccoli	G1
+G79283_1x_RF8_01_20340	GATACA	GATACA	kale	superfood	vegetable	no	Brassicaceae	yes	G79283_1x_RF8_01_20340.mzXML	cardboard	2.008	brassica	leaf	2.0659	no	0.0579	kale	G1
+G79285_1x_5ul_rerun_drift_RA8_01_20541	GATACA	GATACA	spinach	non_superfood	vegetable	no	Amaranthaceae	yes	G79285_1x_5ul_rerun_drift_RA8_01_20541.mzXML	cardboard	1.9885	spinacia	leaf	2.0527	no	0.0642	spinach	G1
+G79286_1x_RH8_01_20365	GATACA	GATACA	carrot	non_superfood	vegetable	no	Apiaceae	yes	G79286_1x_RH8_01_20365.mzXML	not collected	2.008	daucus	root	2.1599	no	0.1519	carrot	G1
+G79287_1x_10ul_RD7_01_20307	GATACA	GATACA	celery	non_superfood	vegetable	no	Apiaceae	yes	G79287_1x_10ul_RD7_01_20307.mzXML	cardboard	2.0064	apium	stem	2.1494	no	0.143	celery	G1
+G79288_1x_rerun_10ul_RC7_01_20394	GATACA	GATACA	celery	non_superfood	vegetable	no	Apiaceae	yes	G79288_1x_rerun_10ul_RC7_01_20394.mzXML	cardboard	1.9964	apium	leaf	2.0162	no	0.0198	celery	G1
+G79289_1x_RB7_01_20256	GATACA	GATACA	bean	non_superfood	legume	no	Fabaceae	yes	G79289_1x_RB7_01_20256.mzXML	cardboard	2.0018	Phaseolus	fruit	2.1664	no	0.1646	green bean	G1
+G79290_1x_RA7_01_20372	GATACA	GATACA	strawberry	superfood	pseudocarp	no	Rosaceae	yes	G79290_1x_RA7_01_20372.mzXML	cardboard	2.0032	Fragaria	fruit	2.1218	no	0.1936	strawberry	G1
+G79291_1x_RG7_01_20352	GATACA	GATACA	pear	non_superfood	pome	no	Rosaceae	yes	G79291_1x_RG7_01_20352.mzXML	cardboard	2.0064	Pyrus	fruit	2.1566	no	0.1502	barlett pear	G1
+G79292_1x_rerun_RF7_01_20572	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G79292_1x_rerun_RF7_01_20572.mzXML	cardboard	1.9955	citrus	fruit	2.2533	no	0.2578	orange	G1
+G79294_1x_RH7_01_20364	GATACA	GATACA	squash	non_superfood	pepo	no	Cucurbitaceae	yes	G79294_1x_RH7_01_20364.mzXML	cardboard	2.0134	Cucurbita	fruit	2.1295	no	0.1161	zucchini	G1
+G79295_1x_rerun_RF6_01_20571	GATACA	GATACA	apple	non_superfood	pome	no	Rosaceae	yes	G79295_1x_rerun_RF6_01_20571.mzXML	cardboard	2.0017	Malus	fruit	2.1054	no	0.1037	apple	G1
+G79296_1x_rerun_RC6_01_20393	GATACA	GATACA	yam	non_superfood	vegetable	no	Solanaceae	yes	G79296_1x_rerun_RC6_01_20393.mzXML	cardboard	2.0088	Dioscorea	root	2.1585	no	0.1497	yam	G1
+G79297_1x_rerun_RA6_01_20387	GATACA	GATACA	tomato	non_superfood	berry	no	Solanaceae	yes	G79297_1x_rerun_RA6_01_20387.mzXML	not collected	2.0083	solanum	fruit	2.2886	no	0.2803	roma tomato	G1
+G79298_1x_RG6_01_20351	GATACA	GATACA	cucumber	non_superfood	pepo	no	Cucurbitaceae	yes	G79298_1x_RG6_01_20351.mzXML	cardboard	2.0034	cucumis	fruit	2.2293	no	0.2259	cucumber	G1
+G79299_1x_RH2_01_18909	GATACA	GATACA	mangosteen	superfood	berry	no	Clusiaceae	yes	G79299_1x_RH2_01_18909.mzXML	none	2.0077	Garcinia	fruit	2.2765	no	0.2688	purple mangosteen	G1
+G79300_1x_rerun_10ul_RC2_01_18904	GATACA	GATACA	dragonfruit	superfood	berry	no	Cactaceae	yes	G79300_1x_rerun_10ul_RC2_01_18904.mzXML	none	2.0007	hylocereus	fruit	2.1793	no	0.1786	dragonfruit	G1
+G79301_1x_RA2_01_18786	GATACA	GATACA	dragonfruit	superfood	berry	no	Cactaceae	yes	G79301_1x_RA2_01_18786.mzXML	none	1.9989	hylocereus	fruit	2.5066	no	0.5077	dragonfruit	G1
+G79304_1x_RC8_01_18820	GATACA	GATACA	banana	non_superfood	berry	yes	Musaceae	yes	G79304_1x_RC8_01_18820.mzXML	glass	2.007	musa	fruit	2.3125	no	0.3055	banana	G1
+G79306_1x_RF6_01_18872	GATACA	GATACA	cilantro	non_superfood	herb/spice	yes	Apiaceae	yes	G79306_1x_RF6_01_18872.mzXML	none	1.9694	coriandrum	leaf	1.9959	no	0.0265	cilantro	G1
+G79308_1x_RC11_01_18823	GATACA	GATACA	lime	non_superfood	herb/spice	not collected	Rutaceae	yes	G79308_1x_RC11_01_18823.mzXML	plastic	2.0087	citrus	leaf	2.0237	no	0.015	lime	G1
+G79310_1x_RE7_01_18860	GATACA	GATACA	coconut	non_superfood	drupe	not collected	Arecaceae	yes	G79310_1x_RE7_01_18860.mzXML	none	2.0045	cocos	fruit	2.2134	no	0.2089	coconut	G1
+G79313_1x_RE10_01_18863	GATACA	GATACA	galangal	non_superfood	vegetable	no	Zingiberaceae	yes	G79313_1x_RE10_01_18863.mzXML	plastic	2.0015	alpina	tuber	2.1294	no	0.1279	galangal	G1
+G79314_1x_rerun_RA5_01_18837	GATACA	GATACA	lemon grass	non_superfood	vegetable	no	Poaceae	yes	G79314_1x_rerun_RA5_01_18837.mzXML	none	1.9951	Cymbopogon	stem	2.065	no	0.0699	lemon grass	G1
+G79484_1x_RF2_01_18868	GATACA	GATACA	nectarine	non_superfood	drupe	yes	Rutaceae	yes	G79484_1x_RF2_01_18868.mzXML	none	1.9474	Prunus	fruit	2.1863	no	0.2389	nectarine	G1
+G79488_1x_RH4_01_20361	GATACA	GATACA	dill	non_superfood	herb/spice	yes	Apiaceae	yes	G79488_1x_RH4_01_20361.mzXML	none	1.9895	anethum	leaf	2.001	non GMO	0.0115	dill	G1
+G79502_1x_RH10_01_20367	GATACA	GATACA	collard greens	non_superfood	vegetable	no	Brassicaceae	yes	G79502_1x_RH10_01_20367.mzXML	none	2.0055	Brassica	leaf	2.0514	no	0.0459	collard greens	G1
+G79503_1x_RF10_01_20342	GATACA	GATACA	chard	non_superfood	vegetable	no	Amaranthaceae	yes	G79503_1x_RF10_01_20342.mzXML	none	1.9867	beta	leaf	2.01	no	0.0233	chard	G1
+G79504_1x_10ul_RD10_01_20311	GATACA	GATACA	escarole	non_superfood	vegetable	no	Asteraceae	yes	G79504_1x_10ul_RD10_01_20311.mzXML	none	1.9756	Cichorium	leaf	2.0288	no	0.0532	escarole	G1
+G79505_1x_RB10_01_20258	GATACA	GATACA	lettuce	non_superfood	vegetable	no	Asteraceae	yes	G79505_1x_RB10_01_20258.mzXML	none	1.9874	lactuca	leaf	2.0436	no	0.0562	romaine lettuce	G1
+G79506_p20_a10_rerun_GB8_01_21706	GATACA	GATACA	lettuce	non_superfood	vegetable	no	Asteraceae	yes	G79506_p20_a10_rerun_GB8_01_21706.mzXML	none	1.9884	lactuca	leaf	2.0043	no	0.0159	red leaf lettuce	G1
+G79507_1x_RE10_01_20327	GATACA	GATACA	lettuce	non_superfood	vegetable	no	Asteraceae	yes	G79507_1x_RE10_01_20327.mzXML	none	1.9922	lactuca	leaf	2.1154	no	0.1232	iceberg lettuce	G1
+G79508_1x_rerun_10ul_RC9_01_20298	GATACA	GATACA	cabbage	non_superfood	flower	no	Brassicaceae	yes	G79508_1x_rerun_10ul_RC9_01_20298.mzXML	none	1.9934	Brassica	leaf	2.1169	no	0.1235	green	G1
+G79509_1x_RD9_01_20309	GATACA	GATACA	papaya	non_superfood	berry	no	Caricaceae_cactaceae	yes	G79509_1x_RD9_01_20309.mzXML	not collected	not collected	carica	fruit	not collected	no	not collected	papaya	G1
+G79510_1x_RE9_01_20326	GATACA	GATACA	melon	non_superfood	pepo	no	Cucurbitaceae	yes	G79510_1x_RE9_01_20326.mzXML	none	not collected	cucumis	fruit	not collected	no	not collected	cantelope	G1
+G79511_1x_RE8_01_20325	GATACA	GATACA	apple	non_superfood	pome	no	Rosaceae	yes	G79511_1x_RE8_01_20325.mzXML	cardboard	not collected	Malus	fruit	not collected	no	not collected	apple	G1
+G79512_1x_rerun_10ul_RC8_01_20395	GATACA	GATACA	pear	non_superfood	pome	no	Rosaceae	yes	G79512_1x_rerun_10ul_RC8_01_20395.mzXML	none	not collected	pyrus	fruit	not collected	no	not collected	pear	G1
+G79514_1x_rerun_RF4_01_20569	GATACA	GATACA	lotus seed	non_superfood	grain/grass	no	Nelumbonaceae	yes	G79514_1x_rerun_RF4_01_20569.mzXML	plastic	1.982	Nelumbo	seed	2.1653	no	0.1833	lotus seed	G1
+G79624_5x_BH4_01_18895	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G79624_5x_BH4_01_18895.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G79625_1x_RH6_01_18974	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G79625_1x_RH6_01_18974.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G79633_1x_RH5_01_18972	GATACA	GATACA	orange	non_superfood	citrus	yes	Rutaceae	yes	G79633_1x_RH5_01_18972.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G79634_5x_BH7_01_18896	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G79634_5x_BH7_01_18896.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G79636_1x_RH10_01_18962	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G79636_1x_RH10_01_18962.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	grapefruit	G1
+G79637_1x_RH11_01_18964	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G79637_1x_RH11_01_18964.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	grapefruit	G1
+G79638_1x_RH9_01_18960	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G79638_1x_RH9_01_18960.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	grapefruit	G1
+G79639_5x_BH3_01_18894	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G79639_5x_BH3_01_18894.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	grapefruit	G1
+G79640_1x_RH12_01_18966	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G79640_1x_RH12_01_18966.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G79641_1x_RD2_01_18827	GATACA	GATACA	banana	non_superfood	berry	yes	Musaceae	yes	G79641_1x_RD2_01_18827.mzXML	none	1.9245	musa	fruit	2.3601	no	0.4356	banana	G1
+G79666_1x_RA5_01_20561	GATACA	GATACA	lemon	non_superfood	citrus	no	Rutaceae	yes	G79666_1x_RA5_01_20561.mzXML	plastic	1.9905	citrus	fruit	2.0221	no	0.0316	lemon	G1
+G79682_5x_rerun_BB11_01_19636	GATACA	GATACA	cocoa seed	non_superfood	drupe	no	Malvaceae	yes	G79682_5x_rerun_BB11_01_19636.mzXML	foil	1.9908	theobroma	seed	2.0217	no	0.0309	cocoa seed	G1
+G79694_5x_rerun_BA2_01_20072	GATACA	GATACA	bean	non_superfood	legume	not collected	Fabaceae	yes	G79694_5x_rerun_BA2_01_20072.mzXML	none	1.998	Vigna	seed	2.1289	no	0.1309	black eyed pea	Not Mapped
+G79728_1x_10ul_RD3_01_20303	GATACA	GATACA	cabbage	non_superfood	vegetable	yes	Brassicaceae	yes	G79728_1x_10ul_RD3_01_20303.mzXML	none	1.9417	brassica	leaf	2.0346	non GMO	0.0929	purple	G1
+G79731_1x_RC4_01_20264	GATACA	GATACA	bean	superfood	legume	not collected	Fabaceae	yes	G79731_1x_RC4_01_20264.mzXML	none	1.9562	glycine	seed	2.2393	no	0.2831	soy bean	G1
+G79735_1x_RE4_01_20321	GATACA	GATACA	lime	non_superfood	citrus	not collected	Rutaceae	yes	G79735_1x_RE4_01_20321.mzXML	none	1.9499	citrus	fruit	2.0875	no	0.1376	lime	G1
+G79736_1x_10ul_RD4_01_20304	GATACA	GATACA	lime	non_superfood	citrus	not collected	Rutaceae	yes	G79736_1x_10ul_RD4_01_20304.mzXML	none	1.9519	citrus	fruit	2.0254	no	0.0735	lime	G1
+G79753_5x_BC9_01_19979	GATACA	GATACA	sunflower seed	non_superfood	flower	no	Asteraceae	yes	G79753_5x_BC9_01_19979.mzXML	none	not collected	helianthus	seed	not collected	no	0.0501	sunflower seed	G1
+G83187_1x_BB3_01_20139	GATACA	GATACA	cardamom	non_superfood	herb/spice	no	Zingiberaceae	yes	G83187_1x_BB3_01_20139.mzXML	glass	1.9518	elettaria	seed	2.0515	no	0.0997	cardamom	G1
+G83189_5x_RB10_01_20151	GATACA	GATACA	quinoa	superfood	grain/grass	yes	Amaranthaceae	yes	G83189_5x_RB10_01_20151.mzXML	not collected	1.981	Chenopodium	seed	2.6109	no	not applicable - final weight with bead	quinoa	G1
+G83196_10ul_GC2_01_20478	GATACA	GATACA	bean	non_superfood	legume	not collected	Fabaceae	yes	G83196_10ul_GC2_01_20478.mzXML	not collected	not applicable	phaseolus	seed	not applicable	no	0.0507	common bean	Not Mapped
+G83197_10ul_rerun_GC3_01_20487	GATACA	GATACA	pea	non_superfood	vegetable	not collected	Fabaceae	yes	G83197_10ul_rerun_GC3_01_20487.mzXML	none	not applicable	vigna	seed	not applicable	no	0.05	cowpea	Not Mapped
+G83203_5x_RB7_01_21421	GATACA	GATACA	oat	non_superfood	grain/grass	not collected	Poaceae	yes	G83203_5x_RB7_01_21421.mzXML	none	1.9784	avena	seed	2.0735	no	0.0951	rolled oats	G1
+G83204_5x_RA7_01_21407	GATACA	GATACA	oat	non_superfood	grain/grass	not collected	Poaceae	yes	G83204_5x_RA7_01_21407.mzXML	none	1.9847	avena	seed	2.0599	no	0.0752	steel-cut oats	G1
+G83205_5x_rerun_RG7_01_21537	GATACA	GATACA	wheat	non_superfood	grain/grass	not collected	Poaceae	no	G83205_5x_rerun_RG7_01_21537.mzXML	none	1.9934	triticum	seed	2.1148	no	0.1214	durum wheat	G1
+G83206_5x_rerun_RE8_01_21495	GATACA	GATACA	rice	non_superfood	grain/grass	no	Poaceae	yes	G83206_5x_rerun_RE8_01_21495.mzXML	glass	1.9326	oryza	seed	2.0852	no	0.1526	arborio rice	G1
+G83207_5x_RA8_01_21408	GATACA	GATACA	rice	non_superfood	grain/grass	not collected	Poaceae	yes	G83207_5x_RA8_01_21408.mzXML	none	1.9976	zizania	seed	2.0661	no	0.0685	wild rice	G1
+G83208_5x_5ul_RB8_01_21527	GATACA	GATACA	lentil	non_superfood	legume	not collected	Fabaceae	yes	G83208_5x_5ul_RB8_01_21527.mzXML	none	1.9871	lens	seed	2.1023	no	0.1152	green lentil	G1
+G83209_5x_5ul_RC8_01_21531	GATACA	GATACA	lentil	non_superfood	legume	not collected	Fabaceae	yes	G83209_5x_5ul_RC8_01_21531.mzXML	none	1.9858	lens	seed	2.0743	no	0.0885	red lentil	G1
+G83210_5x_RH8_01_21517	GATACA	GATACA	wheat	non_superfood	grain/grass	not collected	Poaceae	no	G83210_5x_RH8_01_21517.mzXML	none	1.979	triticum	seed	2.0682	non GMO	0.0892	farro	G1
+G83211_5x_rerun_RG8_01_21538	GATACA	GATACA	buckwheat	non_superfood	grain/grass	not collected	Polygonaceae	yes	G83211_5x_rerun_RG8_01_21538.mzXML	none	1.9505	fagopyrum	seed	2.0234	no	0.0729	buckwheat	G1
+G83212_5x_RF8_01_21490	GATACA	GATACA	rice	non_superfood	grain/grass	not collected	Poaceae	yes	G83212_5x_RF8_01_21490.mzXML	none	1.9885	oryza	seed	2.0844	no	0.0959	jasmine rice	G1
+G83213_5x_RD8_01_21464	GATACA	GATACA	corn	non_superfood	grain/grass	not collected	Poaceae	yes	G83213_5x_RD8_01_21464.mzXML	none	1.9885	zea	fruit	2.1541	not collected	0.1656	corn	G1
+G83214_5x_RA9_01_21405	GATACA	GATACA	wheat	non_superfood	grain/grass	not collected	Poaceae	no	G83214_5x_RA9_01_21405.mzXML	none	1.9941	triticum	seed	2.0432	non GMO	0.0491	orzo	G1
+G83226_1x_RC12_01_20300	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G83226_1x_RC12_01_20300.mzXML	plastic	1.956	lactuca	leaf	1.9644	non GMO	0.0084	curly leaf	G1
+G83227_1x_RC11_01_20299	GATACA	GATACA	pear	non_superfood	pome	yes	Rosaceae	yes	G83227_1x_RC11_01_20299.mzXML	none	1.9475	pyrus	fruit	2.2572	no	0.3097	barlett pear	G1
+G83234_1x_RF11_01_20343	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G83234_1x_RF11_01_20343.mzXML	cardboard	1.9917	solanum	fruit	2.1233	no	0.1316	yellow cherry tomato	G1
+G83235_1x_rerun_RE12_01_20332	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G83235_1x_rerun_RE12_01_20332.mzXML	cardboard	1.9855	solanum	fruit	2.1719	no	0.1864	red cherry tomato	G1
+G83236_1x_rerun_RD12_01_20566	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G83236_1x_rerun_RD12_01_20566.mzXML	cardboard	1.9487	solanum	fruit	2.1899	no	0.2412	red cherry tomato	G1
+G83237_1x_rerun_RB12_01_20391	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G83237_1x_rerun_RB12_01_20391.mzXML	plastic	1.9842	lactuca	leaf	2.0123	non GMO	0.0281	lettuce	G1
+G83238_1x_RF12_01_20344	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G83238_1x_RF12_01_20344.mzXML	plastic	1.9831	lactuca	leaf	1.9959	non GMO	0.0128	lettuce	G1
+G83239_1x_RH12_01_20369	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G83239_1x_RH12_01_20369.mzXML	plastic	1.9598	lactuca	leaf	1.9676	non GMO	0.0078	purple lettuce	G1
+G83240_1x_RG12_01_20357	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G83240_1x_RG12_01_20357.mzXML	plastic	1.9447	lactuca	leaf	1.9563	non GMO	0.0116	purple	G1
+G83241_1x_rerun_10ul_RA12_01_20388	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	yes	G83241_1x_rerun_10ul_RA12_01_20388.mzXML	plastic	1.9759	lactuca	leaf	2.018	non GMO	0.0421	curly leaf	G1
+G83242_1x_RC10_01_20297	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G83242_1x_RC10_01_20297.mzXML	plastic	1.8859	capsicum	fruit	1.9491	no	0.0632	shishito pepper	G1
+G83243_1x_rerun_15ul_RG10_01_20573	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G83243_1x_rerun_15ul_RG10_01_20573.mzXML	plastic	1.9933	capsicum	fruit	2.0669	no	0.0736	shishito pepper	G1
+G83244_1x_rerun_drift_RA11_01_20543	GATACA	GATACA	raspberry	non_superfood	drupe_aggregate	yes	Rosaceae	yes	G83244_1x_rerun_drift_RA11_01_20543.mzXML	plastic	1.9571	rubus	fruit	2.2812	no	0.3241	red raspberry	G1
+G83245_1x_RE11_01_20328	GATACA	GATACA	raspberry	non_superfood	drupe_aggregate	yes	Rosaceae	yes	G83245_1x_RE11_01_20328.mzXML	plastic	1.9456	rubus	fruit	2.0652	no	0.1196	red raspberry	G1
+G83246_1x_RH11_01_20368	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G83246_1x_RH11_01_20368.mzXML	none	1.9894	daucus	root	2.2258	non GMO	0.2364	white carrot	G1
+G83247_1x_RD11_01_20312	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G83247_1x_RD11_01_20312.mzXML	none	1.9948	daucus	root	2.1516	non GMO	0.1568	orange carrot	G1
+G83248_1x_RB11_01_20259	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G83248_1x_RB11_01_20259.mzXML	none	1.9818	daucus	root	2.1477	non GMO	0.1659	yellow carrot	G1
+G83249_1x_RG11_01_20356	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G83249_1x_RG11_01_20356.mzXML	none	1.9989	daucus	root	2.1463	non GMO	0.1474	purple carrot	G1
+G83310_5x_RC9_01_21426	GATACA	GATACA	tomato	non_superfood	berry	not collected	Solanaceae	yes	G83310_5x_RC9_01_21426.mzXML	none	1.9644	solanum	fruit	2.5582	no	0.5938	tomato	G1
+G83314_5x_RA10_01_21409	GATACA	GATACA	beet	non_superfood	vegetable	yes	Amaranthaceae	yes	G83314_5x_RA10_01_21409.mzXML	none	1.9476	beta	root	2.1563	no	0.2087	red beet	G1
+G83317_5x_RD10_01_21465	GATACA	GATACA	pecan	non_superfood	drupe	yes	Juglandaceae	yes	G83317_5x_RD10_01_21465.mzXML	none	not collected	carya	seed	not collected	no	not collected	pecan	G1
+G83394_5x_RC6_01_21433	GATACA	GATACA	bean	non_superfood	legume	not collected	Cicereae	yes	G83394_5x_RC6_01_21433.mzXML	none	1.9695	cicer	seed	2.2959	no	0.3264	garbanzo bean	G1
+G83395_5x_RA6_01_21406	GATACA	GATACA	walnut	non_superfood	drupe	no	Juglandaceae	yes	G83395_5x_RA6_01_21406.mzXML	plastic	1.9674	juglans	seed	2.0561	no	0.0887	walnut	G1
+G83396_5x_RD6_01_21445	GATACA	GATACA	almond	non_superfood	drupe	no	Rosaceae	yes	G83396_5x_RD6_01_21445.mzXML	glass	2.0101	Prunus	seed	2.1298	no	0.1197	almond	G1
+G83397_5x_RB6_01_21420	GATACA	GATACA	cashew	superfood	drupe	no	Anacardiaceae	yes	G83397_5x_RB6_01_21420.mzXML	glass	2.0144	anacardium	fruit	2.0887	no	0.0743	cashew	G1
+G83398_5x_RE6_01_21475	GATACA	GATACA	peanut	non_superfood	legume	no	Fabaceae	yes	G83398_5x_RE6_01_21475.mzXML	none	2.0076	arachis	seed	2.2991	no	0.2915	peanut	G1
+G83399_5x_rerun_2ul_RC7_01_21525	GATACA	GATACA	bean	non_superfood	legume	not collected	Fabaceae	yes	G83399_5x_rerun_2ul_RC7_01_21525.mzXML	none	2.0101	phaseolus	seed	2.1711	no	0.161	white bean	G1
+G83400_5x_RF7_01_21489	GATACA	GATACA	sunflower seed	non_superfood	flower	not collected	Asteraceae	yes	G83400_5x_RF7_01_21489.mzXML	none	2.0273	helianthus	seed	2.0952	no	0.0679	sunflower seed	G1
+G83401_5x_rerun_RE7_01_21493	GATACA	GATACA	rice	non_superfood	grain/grass	not collected	Poaceae	yes	G83401_5x_rerun_RE7_01_21493.mzXML	none	2.0112	oryza	seed	2.0919	no	0.0807	brown rice	G1
+G83402_5x_RH7_01_21515	GATACA	GATACA	bean	non_superfood	legume	not collected	Fabaceae	yes	G83402_5x_RH7_01_21515.mzXML	none	1.9789	phaseolus	seed	2.1698	no	0.1909	black bean	G1
+G83415_5x_RF6_01_21486	GATACA	GATACA	bulgur wheat	non_superfood	grain/grass	not collected	Poaceae	no	G83415_5x_RF6_01_21486.mzXML	none	2.1228	triticum	seed	2.2249	no	0.1021	bulgur wheat	G1
+G83416_5x_RH6_01_21514	GATACA	GATACA	quinoa	superfood	grain/grass	not collected	Amaranthaceae	yes	G83416_5x_RH6_01_21514.mzXML	none	2.1032	chenopodium	seed	2.1704	no	0.0672	quinoa	G1
+G83457_1x_RD4_01_23328	GATACA	GATACA	pear	non_superfood	pome	no	Rosaceae	yes	G83457_1x_RD4_01_23328.mzXML	none	1.9568	pyrus	fruit	2.067	no	0.1102	pear	G1
+G86724_10x_RG10_01_23222	GATACA	GATACA	fennel	non_superfood	vegetable	no	Apiaceae	yes	G86724_10x_RG10_01_23222.mzXML	plastic	2.1176	ferula	leaf	2.4581	not collected	0.3405	giant fennel	G1
+G86725_10x_RG11_01_23223	GATACA	GATACA	garlic	superfood	vegetable	no	Amaryllidaceae	yes	G86725_10x_RG11_01_23223.mzXML	plastic	2.1335	allium	bulb	2.158	not collected	0.0245	garlic	G1
+G86727_10x_RH2_01_23228	GATACA	GATACA	onion	non_superfood	vegetable	no	Amaryllidaceae	yes	G86727_10x_RH2_01_23228.mzXML	plastic	2.1369	allium	bulb	2.1889	not collected	0.052	onion	G1
+G86733_1x_rerun_RE5_01_23440	GATACA	GATACA	pear	non_superfood	pome	no	Rosaceae	yes	G86733_1x_rerun_RE5_01_23440.mzXML	none	1.9843	pyrus	fruit	2.1008	no	0.1165	pear	G1
+G86735_1x_RE6_01_23349	GATACA	GATACA	cranberry	superfood	berry	no	ericacee	yes	G86735_1x_RE6_01_23349.mzXML	plastic	2.1269	vaccinium	fruit	2.2352	no	0.1083	cranberry	G1
+G86756_1x_BB5_01_23137	GATACA	GATACA	seed	non_superfood	drupe	yes	Pedaliaceae	yes	G86756_1x_BB5_01_23137.mzXML	plastic	1.9768	Sesamum	seed	2.0029	no	0.0261	sesame seed	G1
+G86760_10x_RH5_01_23233	GATACA	GATACA	cocoa seed	non_superfood	drupe	no	Malvaceae	yes	G86760_10x_RH5_01_23233.mzXML	plastic	1.9748	Theobroma	seed	2.0022	no	0.0274	cocoa seed	G1
+G86775_1x_RE4_01_23346	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G86775_1x_RE4_01_23346.mzXML	none	not collected	citrus	fruit	2.0311	no	not collected	navel orange	G1
+G86776_1x_RF7_01_26314	GATACA	GATACA	eggplant	non_superfood	berry	not collected	Solanaceae	yes	G86776_1x_RF7_01_26314.mzXML	none	not collected	solanum	fruit	not collected	no	not collected	thai eggplant	G1
+G86778_1x_RC11_01_26268	GATACA	GATACA	rice	non_superfood	grain/grass	not collected	Poaceae	yes	G86778_1x_RC11_01_26268.mzXML	none	not provided	oryza	seed	2.0656	no	not provided	rice	G1
+G86781_1x_RE12_01_23354	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G86781_1x_RE12_01_23354.mzXML	none	not collected	citrus	fruit	2.0494	no	not collected	navel orange	G1
+G86783_1x_RG9_01_23382	GATACA	GATACA	banana	non_superfood	berry	yes	Musaceae	yes	G86783_1x_RG9_01_23382.mzXML	none	not collected	musa	fruit	2.3075	no	not collected	banana	G1
+G86787_1x_RG10_01_23372	GATACA	GATACA	avocado	superfood	berry	yes	Lauraceae	yes	G86787_1x_RG10_01_23372.mzXML	none	not collected	persea	fruit	2.0518	no	not collected	avocado	G1
+G86788_1x_RG11_01_23383	GATACA	GATACA	avocado	superfood	berry	yes	Lauraceae	yes	G86788_1x_RG11_01_23383.mzXML	none	not collected	persea	fruit	2.2472	no	not collected	avocado	G1
+G86790_1x_2u_RH1_01_23445	GATACA	GATACA	onion	non_superfood	vegetable	not collected	Amaryllidaceae	yes	G86790_1x_2u_RH1_01_23445.mzXML	none	not collected	allium	bulb	2.0974	non GMO	not collected	white onion	G1
+G86793_1x_BA2_01_23116	GATACA	GATACA	wheat	non_superfood	grain/grass	not collected	Poaceae	no	G86793_1x_BA2_01_23116.mzXML	none	1.9759	triticum	seed	2.0709	no	0.095	durum wheat	G1
+G86794_1x_RH2_01_23390	GATACA	GATACA	ginger	superfood	vegetable	not collected	Zingiberaceae	yes	G86794_1x_RH2_01_23390.mzXML	none	1.9839	zingiber	stem	2.1476	non GMO	0.1637	ginger	G1
+G86795_1x_rerun_RH12_01_23407	GATACA	GATACA	persimmon	non_superfood	berry	yes	Ebenacee	yes	G86795_1x_rerun_RH12_01_23407.mzXML	none	2.1265	diospyros	fruit	2.2844	no	0.1579	fuyu persimmon	G1
+G86796_1x_RH4_01_23392	GATACA	GATACA	persimmon	non_superfood	berry	yes	Ebenacee	yes	G86796_1x_RH4_01_23392.mzXML	none	2.126	diospyros	fruit	2.2506	no	0.1246	fuyu persimmon	G1
+G86797_1x_RH5_01_23393	GATACA	GATACA	mandarin	non_superfood	citrus	no	Rutaceae	yes	G86797_1x_RH5_01_23393.mzXML	none	2.1296	citrus	fruit	2.3676	no	0.238	satsuma mandarin	G1
+G86798_1x_RH6_01_23397	GATACA	GATACA	mandarin	non_superfood	citrus	no	Rutaceae	yes	G86798_1x_RH6_01_23397.mzXML	none	2.1357	citrus	fruit	2.1716	no	0.0359	satsuma mandarin	G1
+G86799_1x_2ul_RH7_01_23404	GATACA	GATACA	mandarin	non_superfood	citrus	no	Rutaceae	yes	G86799_1x_2ul_RH7_01_23404.mzXML	none	2.0021	citrus	fruit	2.0932	no	0.0911	satsuma mandarin	G1
+G86800_1x_RH8_01_23399	GATACA	GATACA	bean	non_superfood	legume	not collected	Cicereae	yes	G86800_1x_RH8_01_23399.mzXML	none	1.9461	cicer	seed	2.1735	no	0.2274	garbanzo bean	G1
+G86801_1x_rerun_RH9_01_23405	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	G86801_1x_rerun_RH9_01_23405.mzXML	plastic	2.1319	vaccinium	fruit	2.3671	no	0.2352	blueberry	G1
+G86802_1x_RH10_01_23387	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	G86802_1x_RH10_01_23387.mzXML	plastic	1.9704	vaccinium	fruit	2.0813	no	0.1109	blueberry	G1
+G86803_1x_rerun_RH11_01_23406	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G86803_1x_rerun_RH11_01_23406.mzXML	plastic	1.9693	solanum	fruit	2.4026	no	0.4333	sugar plum tomatoes	G1
+G86810_10x_BD5_01_23329	GATACA	GATACA	prunes	non_superfood	drupe	yes	Rosaceae	yes	G86810_10x_BD5_01_23329.mzXML	none	not applicable	prunes	fruit	not applicable	no	not applicable	prunes	G1
+G86817_1x_BH4_01_23230	GATACA	GATACA	pear	non_superfood	pome	yes	Rosaceae	yes	G86817_1x_BH4_01_23230.mzXML	none	2.1369	Pyrus	fruit	2.2295	no	0.0926	danjou pear	G1
+G86821_10x_RF3_01_23198	GATACA	GATACA	coffee	non_superfood	vegetable	no	Rubiaceae	yes	G86821_10x_RF3_01_23198.mzXML	metal	not collected	coffea	fruit	not collected	no	not collected	coffee	G1
+G86822_1x_RF8_01_23366	GATACA	GATACA	garlic	superfood	herb/spice	yes	Amaryllidaceae	yes	G86822_1x_RF8_01_23366.mzXML	glass	2.1436	allium	bulb	2.1937	no	0.0501	garlic	G1
+G86824_1x_RF6_01_23364	GATACA	GATACA	oregano	non_superfood	berry	yes	Lamiaceae	yes	G86824_1x_RF6_01_23364.mzXML	glass	2.1421	Dost	leaf	2.1608	no	0.0187	oregano	G1
+G86827_1x_RF5_01_23362	GATACA	GATACA	pepper	non_superfood	berry	yes	Solanaceae	yes	G86827_1x_RF5_01_23362.mzXML	glass	2.1279	capsicum	fruit	2.1519	no	0.024	smoked paprika	G1
+G86834_1x_BA10_01_23125	GATACA	GATACA	corn	non_superfood	grain/grass	no	Poaceae	yes	G86834_1x_BA10_01_23125.mzXML	plastic	not collected	zea	fruit	not collected	not collected	not collected	sweet corn	G1
+G86871_1x_2ul_RG8_01_23444	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	G86871_1x_2ul_RG8_01_23444.mzXML	plastic	not collected	vaccinium	fruit	2.2701	no	not collected	blueberry	G1
+G86873_1x_RG7_01_23380	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G86873_1x_RG7_01_23380.mzXML	none	not collected	vigna	seed	2.9557	no	not collected	black mung bean	G1
+G86874_1x_RG6_01_23379	GATACA	GATACA	bean	non_superfood	legume	yes	Fabaceae	yes	G86874_1x_RG6_01_23379.mzXML	none	not collected	vigna	seed	2.252	no	not collected	green mung bean	G1
+G86878_1x_RG5_01_23377	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	no	G86878_1x_RG5_01_23377.mzXML	plastic	not collected	lactuca	leaf	2.3217	no	not collected	red romaine lettuce	G1
+G86879_1x_rerun_RG4_01_23443	GATACA	GATACA	spinach	non_superfood	vegetable	yes	Amaranthaceae	yes	G86879_1x_rerun_RG4_01_23443.mzXML	plastic	not collected	spinacia	leaf	2.1624	no	not collected	spinach	G1
+G86880_1x_RG12_01_23384	GATACA	GATACA	chard	non_superfood	vegetable	yes	Amaranthaceae	yes	G86880_1x_RG12_01_23384.mzXML	plastic	not collected	beta	leaf	2.1882	no	not collected	chard	G1
+G86881_1x_RG2_01_23374	GATACA	GATACA	lettuce	non_superfood	vegetable	yes	Asteraceae	no	G86881_1x_RG2_01_23374.mzXML	plastic	not collected	lactuca	leaf	2.1711	no	not collected	green curly baby romaine	G1
+G86882_1x_BA5_01_23119	GATACA	GATACA	wheat	non_superfood	grain/grass	no	Poaceae	no	G86882_1x_BA5_01_23119.mzXML	plastic	not collected	triticum	seed	2.1808	no	not collected	semolina	G1
+G86883_1x_RG1_01_23373	GATACA	GATACA	kiwi	superfood	berry	yes	Actinidiaceae	yes	G86883_1x_RG1_01_23373.mzXML	none	not collected	actinidia	fruit	2.4384	no	not collected	kiwi	G1
+G86889_1x_RG2_01_26323	GATACA	GATACA	broccoli	superfood	flower	yes	Brassicaceae	yes	G86889_1x_RG2_01_26323.mzXML	none	2.1349	brassica	flower	2.2262	no	0.0913	broccoli	G1
+G86909_1x_RB2_01_26242	GATACA	GATACA	strawberry	superfood	pseudocarp	yes	Rosaceae	yes	G86909_1x_RB2_01_26242.mzXML	plastic	1.95	fragaria	fruit	2.389	no	0.439	strawberry	G1
+G86910_1x_RD2_01_26273	GATACA	GATACA	blueberry	superfood	berry	yes	ericacee	yes	G86910_1x_RD2_01_26273.mzXML	plastic	1.9424	vaccinium	fruit	2.1623	no	0.2199	blueberry	G1
+G86911_1x_RF3_01_26309	GATACA	GATACA	raspberry	non_superfood	drupe_aggregate	yes	Rosaceae	yes	G86911_1x_RF3_01_26309.mzXML	plastic	1.9533	rubus	fruit	2.2129	no	0.2596	red raspberry	G1
+G86914_1x_RH5_01_26344	GATACA	GATACA	sage	non_superfood	herb/spice	yes	Lamiaceae	yes	G86914_1x_RH5_01_26344.mzXML	not collected	1.9553	salvia	leaf	1.9808	no	0.0255	sage	G1
+G86918_1x_rerun_BF3_01_26628	GATACA	GATACA	rice	non_superfood	vegetable	not collected	Poaceae	yes	G86918_1x_rerun_BF3_01_26628.mzXML	not collected	not collected	oryza	seed	not collected	no	not collected	rice	G1
+G86937_1x_BB4_01_23136	GATACA	GATACA	rice	non_superfood	grain/grass	not collected	Poaceae	yes	G86937_1x_BB4_01_23136.mzXML	not collected	1.9472	oryza	seed	2.1315	no	0.1843	brown rice	G1
+G87457_1x_rerun_15ul_RD3_01_26294	GATACA	GATACA	radish	non_superfood	vegetable	yes	Brassicaceae	yes	G87457_1x_rerun_15ul_RD3_01_26294.mzXML	none	1.968	raphanus	root	2.0651	no	0.0971	french radish	G1
+G87458_1x_RF2_01_26308	GATACA	GATACA	jicama	non_superfood	vegetable	no	Fabaceae	yes	G87458_1x_RF2_01_26308.mzXML	none	1.9478	pachyrizus	root	2.0555	no	0.1077	jicama	G1
+G87461_1x_RC7_01_26264	GATACA	GATACA	banana	non_superfood	berry	yes	Musaceae	yes	G87461_1x_RC7_01_26264.mzXML	none	1.9452	musa	fruit	2.0034	no	0.0582	banana	G1
+G87463_1x_RB7_01_26249	GATACA	GATACA	pomelo	non_superfood	citrus	no	Rutaceae	yes	G87463_1x_RB7_01_26249.mzXML	none	1.949	citrus	fruit	2.0016	no	0.0526	pomelo	G1
+G87464_1x_RF6_01_26313	GATACA	GATACA	pomelo	non_superfood	citrus	no	Rutaceae	yes	G87464_1x_RF6_01_26313.mzXML	none	1.9502	citrus	fruit	2.1938	no	0.1686	pomelo	G1
+G87465_1x_RB6_01_26247	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G87465_1x_RB6_01_26247.mzXML	none	1.9609	citrus	fruit	2.015	no	0.0541	grapefruit	G1
+G87466_1x_RA5_01_26224	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G87466_1x_RA5_01_26224.mzXML	none	1.9538	citrus	fruit	2.1483	no	0.1945	grapefruit	G1
+G87467_1x_RD4_01_26275	GATACA	GATACA	grapefruit	non_superfood	citrus	yes	Rutaceae	yes	G87467_1x_RD4_01_26275.mzXML	none	1.9486	citrus	fruit	2.0196	no	0.071	grapefruit	G1
+G87468_1x_RE3_01_26290	GATACA	GATACA	grapefruit	non_superfood	citrus	yes	Rutaceae	yes	G87468_1x_RE3_01_26290.mzXML	none	1.953	citrus	fruit	2.2301	no	0.2771	grapefruit	G1
+G87469_1x_RC3_01_26259	GATACA	GATACA	lemon	non_superfood	citrus	yes	Rutaceae	yes	G87469_1x_RC3_01_26259.mzXML	none	1.9567	citrus	fruit	2.0043	no	0.0476	meyer lemon	G1
+G87470_1x_RH2_01_26341	GATACA	GATACA	lemon	non_superfood	citrus	yes	Rutaceae	yes	G87470_1x_RH2_01_26341.mzXML	none	1.9463	citrus	fruit	2.1893	no	0.243	meyer lemon	G1
+G87471_1x_RE2_01_26289	GATACA	GATACA	kumquat	non_superfood	citrus	yes	Rutaceae	yes	G87471_1x_RE2_01_26289.mzXML	none	1.9508	citrus	fruit	1.9865	no	0.0357	kumquat	G1
+G87472_1x_RH7_01_26347	GATACA	GATACA	kumquat	non_superfood	citrus	yes	Rutaceae	yes	G87472_1x_RH7_01_26347.mzXML	none	1.9543	citrus	fruit	2.085	no	0.1307	kumquat	G1
+G87473_1x_RA7_01_26227	GATACA	GATACA	pomelo	non_superfood	citrus	no	Rutaceae	yes	G87473_1x_RA7_01_26227.mzXML	none	1.9461	citrus	fruit	1.9584	no	0.0123	pomelo	G1
+G87474_1x_BF10_01_26630	GATACA	GATACA	betel nut leaf	non_superfood	vegetable	no	Piperaceae	yes	G87474_1x_BF10_01_26630.mzXML	plastic	1.9329	areca	leaf	not applicable	no	0.0542	betel nut leaf	G1
+G87479_1x_RG4_01_26325	GATACA	GATACA	kumquat	non_superfood	citrus	yes	Rutaceae	yes	G87479_1x_RG4_01_26325.mzXML	none	1.9517	citrus	fruit	1.9703	no	0.0186	kumquat	G1
+G87481_1x_RE5_01_26296	GATACA	GATACA	lemon	non_superfood	citrus	yes	Rutaceae	yes	G87481_1x_RE5_01_26296.mzXML	none	1.9991	citrus	fruit	1.9656	no	not collected	meyer lemon	G1
+G87482_1x_RD5_01_26276	GATACA	GATACA	grapefruit	non_superfood	citrus	yes	Rutaceae	yes	G87482_1x_RD5_01_26276.mzXML	none	1.958	citrus	fruit	1.9839	no	0.0259	grapefruit	G1
+G87483_1x_RA6_01_26226	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G87483_1x_RA6_01_26226.mzXML	none	1.9547	citrus	fruit	2.023	no	0.0683	grapefruit	G1
+G87484_1x_RA2_01_26221	GATACA	GATACA	mandarin	non_superfood	citrus	no	Rutaceae	yes	G87484_1x_RA2_01_26221.mzXML	none	1.9539	citrus	fruit	2.3704	no	0.4165	mandarin	G1
+G87489_1x_RA4_01_26223	GATACA	GATACA	arugula	non_superfood	vegetable	yes	Brassicaceae	yes	G87489_1x_RA4_01_26223.mzXML	plastic	1.9552	eruca	leaf	1.9742	no	0.019	arugula	G1
+G87490_1x_BA11_01_26550	GATACA	GATACA	betel nut	non_superfood	berry	no	Arecaceae	yes	G87490_1x_BA11_01_26550.mzXML	plastic	not collected	areca	fruit	1.9436	no	0.0541	betel nut	G1
+G87492_1x_BH10_01_26659	GATACA	GATACA	betel nut	non_superfood	berry	no	Arecaceae	yes	G87492_1x_BH10_01_26659.mzXML	plastic	not collected	areca	fruit	1.9364	no	0.0568	betel nut	G1
+G87494_1x_RH4_01_26343	GATACA	GATACA	blueberry	superfood	berry	no	ericacee	yes	G87494_1x_RH4_01_26343.mzXML	plastic	1.9555	vaccinium	fruit	2.1771	no	0.2216	blueberry	G1
+G87527_1x_RC5_01_26261	GATACA	GATACA	betel nut	non_superfood	berry	no	Arecaceae	yes	G87527_1x_RC5_01_26261.mzXML	plastic	not collected	areca	fruit	not collected	no	not collected	betel nut	G1
+G87530_1x_RE6_01_26297	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G87530_1x_RE6_01_26297.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G87531_1x_RE7_01_26299	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G87531_1x_RE7_01_26299.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G87532_1x_RD6_01_26277	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G87532_1x_RD6_01_26277.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	orange	G1
+G87533_1x_RG5_01_26326	GATACA	GATACA	lemon	non_superfood	citrus	no	Rutaceae	yes	G87533_1x_RG5_01_26326.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	lemon	G1
+G87534_1x_RC2_01_26258	GATACA	GATACA	lemon	non_superfood	citrus	no	Rutaceae	yes	G87534_1x_RC2_01_26258.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	lemon	G1
+G87535_1x_RB4_01_26245	GATACA	GATACA	lemon	non_superfood	citrus	no	Rutaceae	yes	G87535_1x_RB4_01_26245.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	lemon	G1
+G87536_1x_RC8_01_26265	GATACA	GATACA	betel nut	non_superfood	berry	no	Arecaceae	yes	G87536_1x_RC8_01_26265.mzXML	plastic	not collected	areca	fruit	0.0449	no	0.0449	betel nut	G1
+G87537_1x_RE4_01_26295	GATACA	GATACA	betel nut leaf	non_superfood	vegetable	no	Piperaceae	yes	G87537_1x_RE4_01_26295.mzXML	plastic	not applicable	areca	leaf	not applicable	no	0.053	betel nut leaf	G1
+G87538_1x_RG3_01_26324	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G87538_1x_RG3_01_26324.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	grapefruit	G1
+G87539_1x_RB3_01_26244	GATACA	GATACA	grapefruit	non_superfood	citrus	no	Rutaceae	yes	G87539_1x_RB3_01_26244.mzXML	none	not collected	citrus	fruit	not collected	no	not collected	grapefruit	G1
+G87546_1x_RG9_01_26331	GATACA	GATACA	carrot	non_superfood	vegetable	yes	Apiaceae	yes	G87546_1x_RG9_01_26331.mzXML	plastic	1.959	daucus	bulb	not collected	no	not collected	carrot	G1
+G87547_1x_RF9_01_26316	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G87547_1x_RF9_01_26316.mzXML	none	1.9563	citrus	fruit	not collected	no	not collected	navel orange	G1
+G87548_1x_RC10_01_26267	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G87548_1x_RC10_01_26267.mzXML	none	1.9481	citrus	fruit	not collected	no	not collected	navel orange	G1
+G87551_1x_rerun_10ul_RH3_01_26357	GATACA	GATACA	coconut	non_superfood	drupe	no	Arecaceae	yes	G87551_1x_rerun_10ul_RH3_01_26357.mzXML	plastic	1.946	cocos	fruit	not collected	no	not collected	coconut	G1
+G87553_1x_RB8_01_26250	GATACA	GATACA	sweet potato	non_superfood	vegetable	yes	Solanaceae	yes	G87553_1x_RB8_01_26250.mzXML	none	1.9299	ipomoea	tuber	2.2001	no	0.2702	sweet potato	G1
+G87554_1x_RD8_01_26280	GATACA	GATACA	lime	non_superfood	citrus	yes	Rutaceae	yes	G87554_1x_RD8_01_26280.mzXML	none	1.9297	citrus	fruit	1.9721	no	0.0424	lime	G1
+G87555_1x_RH8_01_26348	GATACA	GATACA	lime	non_superfood	citrus	yes	Rutaceae	yes	G87555_1x_RH8_01_26348.mzXML	none	1.927	citrus	fruit	2.2971	no	0.3701	lime	G1
+G87556_1x_RE8_01_26300	GATACA	GATACA	garlic	superfood	vegetable	yes	Amaryllidaceae	yes	G87556_1x_RE8_01_26300.mzXML	none	1.926	allium	bulb	2.0648	no	0.1388	garlic	G1
+G87557_1x_RF8_01_26315	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G87557_1x_RF8_01_26315.mzXML	cardboard/ plastic	1.9467	solanum	flower	2.7686	no	0.8219	grape tomato	G1
+G87558_1x_RG8_01_26330	GATACA	GATACA	orange	non_superfood	citrus	yes	Rutaceae	yes	G87558_1x_RG8_01_26330.mzXML	none	1.9441	citrus	fruit	2.6209	no	0.6768	mineola orange	G1
+G87559_1x_RA9_01_26233	GATACA	GATACA	orange	non_superfood	citrus	yes	Rutaceae	yes	G87559_1x_RA9_01_26233.mzXML	none	1.9449	citrus	fruit	2.1036	no	0.1587	mineola orange	G1
+G87576_1x_BG8_01_26638	GATACA	GATACA	strawberry	superfood	pseudocarp	no	Rosaceae	yes	G87576_1x_BG8_01_26638.mzXML	none	1.9363	Fragaria	fruit	2.0606	no	0.1243	strawberry	G1
+G87577_1x_BA8_01_26547	GATACA	GATACA	avocado	superfood	berry	yes	Lauraceae	yes	G87577_1x_BA8_01_26547.mzXML	none	1.9516	persea	fruit	2.0869	no	0.1353	avocado	G1
+G87578_1x_BF8_01_26627	GATACA	GATACA	kumquat	non_superfood	citrus	no	Rutaceae	yes	G87578_1x_BF8_01_26627.mzXML	none	1.9568	citrus	fruit	2.0796	no	0.1228	kumquat	G1
+G87579_1x_rerun_BC8_01_26615	GATACA	GATACA	kumquat	non_superfood	citrus	no	Rutaceae	yes	G87579_1x_rerun_BC8_01_26615.mzXML	none	1.9427	citrus	fruit	2.1854	no	0.2427	kumquat	G1
+G87580_1x_RB9_01_26251	GATACA	GATACA	sweet potato	non_superfood	vegetable	yes	Solanaceae	yes	G87580_1x_RB9_01_26251.mzXML	none	1.9478	ipomoea	tuber	2.0819	no	0.1341	sweet potato	G1
+G87581_1x_RC9_01_26266	GATACA	GATACA	sweet potato	non_superfood	vegetable	yes	Solanaceae	yes	G87581_1x_RC9_01_26266.mzXML	none	1.9463	ipomoea	tuber	2.0576	no	0.1113	sweet potato	G1
+G87582_1x_RE9_01_26301	GATACA	GATACA	sweet potato	non_superfood	vegetable	yes	Solanaceae	yes	G87582_1x_RE9_01_26301.mzXML	none	1.9287	ipomoea	tuber	2.1214	no	0.1927	sweet potato	G1
+G87594_1x_RF10_01_26317	GATACA	GATACA	orange	non_superfood	citrus	no	Rutaceae	yes	G87594_1x_RF10_01_26317.mzXML	none	1.9352	citrus	fruit	2.0541	no	0.1939	navel orange	G1
+G87603_1x_RH11_01_26351	GATACA	GATACA	avocado	superfood	berry	no	Lauraceae	yes	G87603_1x_RH11_01_26351.mzXML	none	1.9477	persea	fruit	2.0624	no	0.1147	hass avocado	G1
+G87604_1x_RD11_01_26283	GATACA	GATACA	avocado	superfood	berry	no	Lauraceae	yes	G87604_1x_RD11_01_26283.mzXML	none	not provided	persea	fruit	2.0459	no	not provided	fuerte avocado	G1
+G87605_1x_RF11_01_26318	GATACA	GATACA	tomato	non_superfood	berry	yes	Solanaceae	yes	G87605_1x_RF11_01_26318.mzXML	cardboard/ plastic	not collected	solanum	flower	not collected	no	not collected	grape tomato	G1
+G90219_1x_BA6_01_26543	GATACA	GATACA	avocado	superfood	berry	not collected	Lauraceae	yes	G90219_1x_BA6_01_26543.mzXML	none	1.9333	persea	fruit	1.8131	no	not collected	avocado	G1
+G90220_1x_rerun_BC6_01_26614	GATACA	GATACA	acai	superfood	berry	yes	Arecaceae	yes	G90220_1x_rerun_BC6_01_26614.mzXML	plastic	1.9357	euterpe	fruit	2.4055	no	0.4698	acai	G1
+G90221_1x_BD7_01_26585	GATACA	GATACA	golden berries	superfood	berry	yes	Solanaceae	yes	G90221_1x_BD7_01_26585.mzXML	plastic	1.9363	physalis	fruit	2.1105	no	0.1742	golden berries	G1
+G90222_1x_BE7_01_26596	GATACA	GATACA	kiwi	superfood	berry	not collected	Actinidiaceae	yes	G90222_1x_BE7_01_26596.mzXML	plastic	1.9369	actinidia	fruit	2.3892	no	0.4523	kiwi	G1
+G90223_1x_BB7_01_26560	GATACA	GATACA	cranberry	superfood	legume	not collected	ericacee	yes	G90223_1x_BB7_01_26560.mzXML	plastic	1.9363	phaseolus	seed	2.1084	no	0.1721	cranberry	G1
+G90224_1x_BA7_01_26546	GATACA	GATACA	hemp	superfood	grain/grass	yes	Cannabaceae	yes	G90224_1x_BA7_01_26546.mzXML	plastic	1.9407	cannabis	seed	2.1438	no	0.2031	hemp seed	G1
+G90225_1x_BC7_01_26574	GATACA	GATACA	chia	superfood	grain/grass	yes	Lamiaceae	yes	G90225_1x_BC7_01_26574.mzXML	plastic	1.9382	salvia	seed	2.0773	no	0.1391	chia	G1
